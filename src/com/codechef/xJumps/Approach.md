@@ -16,17 +16,16 @@ For each test case, output the minimum number of moves required by him to reach 
 1≤X,Y≤100<br/>
 <b>Sample 1:</b><br/>
 <b>Input</b><br/>
-
-4
-4 2
-8 3
-3 4
+4<br/>
+4 2<br/>
+8 3<br/>
+3 4<br/>
 2 1
 <br/>
 <b>Output</b><br/>
-2
-4
-3
+2<br/>
+4<br/>
+3<br/>
 2
 <br/>
 <b>Explanation:</b><br/>
