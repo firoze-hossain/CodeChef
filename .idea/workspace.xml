@@ -69,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667412768750</updated>
-      <workItem from="1667801820391" duration="788000" />
+      <workItem from="1667801820391" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667802308547</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="xjumps init 1">
+      <created>1667802782815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667802782815</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,17 +93,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xjumps init" />
-    <option name="LAST_COMMIT_MESSAGE" value="xjumps init" />
+    <MESSAGE value="xjumps init 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="xjumps init 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667802702972">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1667802702972" />
-    <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1667802307990">
+    <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1667802782348">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="393" y="4" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1667802307990" />
+    <state x="393" y="4" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1667802782348" />
     <state width="1266" height="172" key="GridCell.Tab.0.bottom" timestamp="1667412805127">
       <screen x="54" y="27" width="1312" height="741" />
     </state>
@@ -117,9 +125,13 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1667801842731" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1667802722733">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1667802992500">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1667802722733" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1667802992500" />
+    <state x="484" y="201" key="git4idea.merge.GitPullDialog" timestamp="1667802910787">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="484" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.816@0.0.1536.816" timestamp="1667802910787" />
   </component>
 </project>
