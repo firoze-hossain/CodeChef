@@ -8,7 +8,7 @@ Find the minimum number of moves required by him to reach exactly the stair numb
 <b>Input Format</b><br/>
 The first line of input will contain a single integer TT, denoting the number of test cases.
 Each test case consists of a single line of input containing two space separated integers XX and YY denoting the number of stair Chef wants to reach and the number of stairs he can climb in one move.
-<b>Output Format</b><br/>
+<br/><b>Output Format</b><br/>
 For each test case, output the minimum number of moves required by him to reach exactly the stair numbered XX.
 
 <b>Constraints</b><br/>
