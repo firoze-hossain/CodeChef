@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/xJumps/Approach.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/xJumps/X Jumps.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/xJumps/XJumps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codechef/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +36,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -53,11 +46,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -81,14 +69,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667412768750</updated>
-      <workItem from="1667801820391" duration="467000" />
+      <workItem from="1667801820391" duration="788000" />
     </task>
+    <task id="LOCAL-00001" summary="xjumps init">
+      <created>1667802308547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667802308547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xjumps init" />
+    <option name="LAST_COMMIT_MESSAGE" value="xjumps init" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667802702972">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1667802702972" />
     <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1667802307990">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -113,9 +117,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1667801842731" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1667802359841">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1667802722733">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1667802359841" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1667802722733" />
   </component>
 </project>
