@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Storing Variables">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/costOfPainting/Cost of Painting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/costOfPainting/CostOfPainting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/accessingCharactersOfAString/Accessing characters of a String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/accessingCharactersOfAString/AccessingCharactersOfAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codechef/com/codechef/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +36,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CostOfPainting">
+  <component name="RunManager" selected="Application.AccessingCharactersOfAString">
+    <configuration name="AccessingCharactersOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.java.accessingCharactersOfAString.AccessingCharactersOfAString" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.java.accessingCharactersOfAString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CostOfPainting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.java.costOfPainting.CostOfPainting" />
       <module name="Codechef" />
@@ -78,21 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccessingCharactersOfAString" />
         <item itemvalue="Application.CostOfPainting" />
         <item itemvalue="Application.StoringVariables" />
       </list>
@@ -124,6 +135,7 @@
       <workItem from="1667801820391" duration="1199000" />
       <workItem from="1675506985997" duration="2750000" />
       <workItem from="1676217008151" duration="1382000" />
+      <workItem from="1676309346482" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
