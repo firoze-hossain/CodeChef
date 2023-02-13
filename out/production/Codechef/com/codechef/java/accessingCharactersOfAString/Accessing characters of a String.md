@@ -1,0 +1,1 @@
+https://www.codechef.com/learn/BJ00LP02/problems/STRJ6
