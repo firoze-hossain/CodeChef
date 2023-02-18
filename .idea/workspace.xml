@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Accessing characters of a String">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/stringOperations/String Operations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/stringOperations/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theANDOperator/The AND operator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theANDOperator/TheANDOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ScannerMethods">
+  <component name="RunManager" selected="Application.TheANDOperator">
     <configuration name="AccessingCharactersOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.java.accessingCharactersOfAString.AccessingCharactersOfAString" />
       <module name="Codechef" />
@@ -90,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoringVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.java.storingVariables.StoringVariables" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.java.storingVariables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.java.stringOperations.StringOperations" />
       <module name="Codechef" />
@@ -116,26 +103,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="TheANDOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.java.theANDOperator.TheANDOperator" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.java.theANDOperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheANDOperator" />
         <item itemvalue="Application.ScannerMethods" />
         <item itemvalue="Application.StringOperations" />
         <item itemvalue="Application.AccessingCharactersOfAString" />
         <item itemvalue="Application.CostOfPainting" />
-        <item itemvalue="Application.StoringVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +164,9 @@
       <workItem from="1675506985997" duration="2750000" />
       <workItem from="1676217008151" duration="1382000" />
       <workItem from="1676309346482" duration="1514000" />
+      <workItem from="1676389877518" duration="27000" />
+      <workItem from="1676692504929" duration="599000" />
+      <workItem from="1676719139416" duration="1249000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
