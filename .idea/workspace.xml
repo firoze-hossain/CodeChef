@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="The AND operator">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theOROperator/The OR operator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theOROperator/TheOROperator.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="The OR operator">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/switchStatements/Switch, Break and Default Statements .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/switchStatements/SwitchBreakAndDefaultStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TheOROperator">
-    <configuration name="AccessingCharactersOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.java.accessingCharactersOfAString.AccessingCharactersOfAString" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.java.accessingCharactersOfAString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SwitchBreakAndDefaultStatements">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
@@ -83,6 +70,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.java.stringOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchBreakAndDefaultStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.java.switchStatements.SwitchBreakAndDefaultStatements" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.java.switchStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchBreakAndDefaultStatements" />
         <item itemvalue="Application.TheOROperator" />
         <item itemvalue="Application.TheANDOperator" />
         <item itemvalue="Application.ScannerMethods" />
         <item itemvalue="Application.StringOperations" />
-        <item itemvalue="Application.AccessingCharactersOfAString" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,7 @@
       <workItem from="1676389877518" duration="27000" />
       <workItem from="1676692504929" duration="599000" />
       <workItem from="1676719139416" duration="1935000" />
-      <workItem from="1676965397575" duration="719000" />
+      <workItem from="1676965397575" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676720484783</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="The OR operator">
+      <created>1676966396602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966396603</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +237,7 @@
     <MESSAGE value="Storing Variables" />
     <MESSAGE value="Accessing characters of a String" />
     <MESSAGE value="The AND operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="The AND operator" />
+    <MESSAGE value="The OR operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="The OR operator" />
   </component>
 </project>
