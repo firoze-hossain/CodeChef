@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Accessing characters of a String">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theANDOperator/The AND operator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theANDOperator/TheANDOperator.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="The AND operator">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theOROperator/The OR operator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/theOROperator/TheOROperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,26 +40,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TheANDOperator">
+  <component name="RunManager" selected="Application.TheOROperator">
     <configuration name="AccessingCharactersOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.java.accessingCharactersOfAString.AccessingCharactersOfAString" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.java.accessingCharactersOfAString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CostOfPainting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.java.costOfPainting.CostOfPainting" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.java.costOfPainting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,24 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="TheOROperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.java.theOROperator.TheOROperator" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.java.theOROperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheOROperator" />
         <item itemvalue="Application.TheANDOperator" />
         <item itemvalue="Application.ScannerMethods" />
         <item itemvalue="Application.StringOperations" />
         <item itemvalue="Application.AccessingCharactersOfAString" />
-        <item itemvalue="Application.CostOfPainting" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +168,8 @@
       <workItem from="1676309346482" duration="1514000" />
       <workItem from="1676389877518" duration="27000" />
       <workItem from="1676692504929" duration="599000" />
-      <workItem from="1676719139416" duration="1249000" />
+      <workItem from="1676719139416" duration="1935000" />
+      <workItem from="1676965397575" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -196,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676310014676</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="The AND operator">
+      <created>1676720484783</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676720484783</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +229,7 @@
     <MESSAGE value="xjumps init 1" />
     <MESSAGE value="Storing Variables" />
     <MESSAGE value="Accessing characters of a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Accessing characters of a String" />
+    <MESSAGE value="The AND operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="The AND operator" />
   </component>
 </project>
