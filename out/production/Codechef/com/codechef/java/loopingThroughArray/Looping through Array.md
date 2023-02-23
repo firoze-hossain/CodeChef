@@ -1,0 +1,1 @@
+https://www.codechef.com/learn/BJ00LP06/problems/LOOPJ6
