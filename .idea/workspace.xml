@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="do while loop">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/breakStatement/Break Statement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/breakStatement/BreakStatement.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Break Statement">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/continueStatement/Continue Statement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/continueStatement/ContinueStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BreakStatement">
+  <component name="RunManager" selected="Application.ContinueStatement">
     <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.java.breakStatement.BreakStatement" />
       <module name="Codechef" />
@@ -60,6 +60,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.java.changingArrayElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.java.continueStatement.ContinueStatement" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.java.continueStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheOROperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.java.theOROperator.TheOROperator" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.java.theOROperator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinueStatement" />
         <item itemvalue="Application.BreakStatement" />
         <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.ChangingArrayElements" />
         <item itemvalue="Application.SwitchBreakAndDefaultStatements" />
-        <item itemvalue="Application.TheOROperator" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,7 @@
       <workItem from="1676692504929" duration="599000" />
       <workItem from="1676719139416" duration="1935000" />
       <workItem from="1676965397575" duration="3064000" />
-      <workItem from="1677127716925" duration="3318000" />
+      <workItem from="1677127716925" duration="5276000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -221,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677130397405</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Break Statement">
+      <created>1677135109833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677135109833</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Break Statement">
+      <created>1677135120456</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677135120456</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +261,7 @@
     <MESSAGE value="The AND operator" />
     <MESSAGE value="The OR operator" />
     <MESSAGE value="do while loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="do while loop" />
+    <MESSAGE value="Break Statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break Statement" />
   </component>
 </project>
