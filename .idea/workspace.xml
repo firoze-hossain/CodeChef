@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="For Each Loop">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/tableOfAnyNumber/Table of any number.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/tableOfAnyNumber/TableOfAnyNumber.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Table of any number">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/factorialOfAnyNumber/Factorial of any number.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/java/factorialOfAnyNumber/FactorialOfAnyNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TableOfAnyNumber">
-    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.java.continueStatement.ContinueStatement" />
+  <component name="RunManager" selected="Application.FactorialOfAnyNumber">
+    <configuration name="FactorialOfAnyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.java.factorialOfAnyNumber.FactorialOfAnyNumber" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.java.continueStatement.*" />
+          <option name="PATTERN" value="com.codechef.java.factorialOfAnyNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialOfAnyNumber" />
         <item itemvalue="Application.TableOfAnyNumber" />
         <item itemvalue="Application.UserInputLoop" />
         <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.LoopingThroughArray" />
-        <item itemvalue="Application.ContinueStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,7 @@
       <workItem from="1676719139416" duration="1935000" />
       <workItem from="1676965397575" duration="3064000" />
       <workItem from="1677127716925" duration="10386000" />
-      <workItem from="1677158326869" duration="1183000" />
+      <workItem from="1677158326869" duration="1871000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677147861838</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Table of any number">
+      <created>1677159529491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677159529491</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +292,7 @@
     <MESSAGE value="Continue Statement" />
     <MESSAGE value="Looping through Array" />
     <MESSAGE value="For Each Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="For Each Loop" />
+    <MESSAGE value="Table of any number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Table of any number" />
   </component>
 </project>
