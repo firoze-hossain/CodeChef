@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="How to accept inputs">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptIntegerInputs/AcceptIntegerInputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptIntegerInputs/How to accept integer inputs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptMultipleInputs/AcceptMultipleInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptMultipleInputs/How to accept multiple inputs in a line.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,26 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AcceptIntegerInputs">
+  <component name="RunManager" selected="Application.AcceptMultipleInputs">
     <configuration name="AcceptIntegerInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.acceptIntegerInputs.AcceptIntegerInputs" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.acceptIntegerInputs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptMultipleInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.acceptMultipleInputs.AcceptMultipleInputs" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.acceptMultipleInputs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,37 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableOfAnyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.java.tableOfAnyNumber.TableOfAnyNumber" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.java.tableOfAnyNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AcceptMultipleInputs" />
         <item itemvalue="Application.AcceptIntegerInputs" />
         <item itemvalue="Application.HowToAcceptInputs" />
         <item itemvalue="Application.DataTypes" />
         <item itemvalue="Application.FactorialOfAnyNumber" />
-        <item itemvalue="Application.TableOfAnyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +174,7 @@
       <workItem from="1677158326869" duration="2482000" />
       <workItem from="1677205897236" duration="2968000" />
       <workItem from="1677248081365" duration="1075000" />
+      <workItem from="1677260065935" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
