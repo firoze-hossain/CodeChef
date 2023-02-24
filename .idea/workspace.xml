@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="How to accept multiple inputs in a line">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptMultipleIntegers/AcceptMultipleIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptMultipleIntegers/How to accept multiple integers on separate lines.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="How to accept multiple integers on separate lines">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptStringInputs/AcceptStringInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/acceptStringInputs/How to accept string inputs.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AcceptMultipleIntegers">
+  <component name="RunManager" selected="Application.AcceptStringInputs">
     <configuration name="AcceptIntegerInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.acceptIntegerInputs.AcceptIntegerInputs" />
       <module name="Codechef" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.dataTypes.DataTypes" />
+    <configuration name="AcceptStringInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.acceptStringInputs.AcceptStringInputs" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.dataTypes.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.acceptStringInputs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AcceptStringInputs" />
         <item itemvalue="Application.AcceptMultipleIntegers" />
         <item itemvalue="Application.AcceptMultipleInputs" />
         <item itemvalue="Application.AcceptIntegerInputs" />
         <item itemvalue="Application.HowToAcceptInputs" />
-        <item itemvalue="Application.DataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1677158326869" duration="2482000" />
       <workItem from="1677205897236" duration="2968000" />
       <workItem from="1677248081365" duration="1075000" />
-      <workItem from="1677260065935" duration="2593000" />
+      <workItem from="1677260065935" duration="4117000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -316,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677262987075</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="How to accept multiple integers on separate lines">
+      <created>1677265034402</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1677265034402</updated>
+    </task>
+    <task id="LOCAL-00022" summary="How to accept multiple integers on separate lines">
+      <created>1677265042308</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677265042308</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +365,7 @@
     <MESSAGE value="Data Types" />
     <MESSAGE value="How to accept inputs" />
     <MESSAGE value="How to accept multiple inputs in a line" />
-    <option name="LAST_COMMIT_MESSAGE" value="How to accept multiple inputs in a line" />
+    <MESSAGE value="How to accept multiple integers on separate lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="How to accept multiple integers on separate lines" />
   </component>
 </project>
