@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Factorial of any number">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProgrammingProblemUsingJava/dataTypes/Data Types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProgrammingProblemUsingJava/dataTypes/DataTypes.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Data Types">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/howToAcceptInputs/How to accept inputs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/howToAcceptInputs/HowToAcceptInputs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codechef/solveProgrammingProblemUsingJava/dataTypes/Data Types.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/dataTypes/Data Types.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codechef/solveProgrammingProblemUsingJava/dataTypes/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/dataTypes/DataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +42,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DataTypes">
+  <component name="RunManager" selected="Application.HowToAcceptInputs">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProgrammingProblemUsingJava.dataTypes.DataTypes" />
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.dataTypes.DataTypes" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProgrammingProblemUsingJava.dataTypes.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.dataTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.java.forEachLoop.ForEachLoop" />
+    <configuration name="HowToAcceptInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.howToAcceptInputs.HowToAcceptInputs" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.java.forEachLoop.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.howToAcceptInputs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HowToAcceptInputs" />
         <item itemvalue="Application.DataTypes" />
         <item itemvalue="Application.FactorialOfAnyNumber" />
         <item itemvalue="Application.TableOfAnyNumber" />
         <item itemvalue="Application.UserInputLoop" />
-        <item itemvalue="Application.ForEachLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +174,7 @@
       <workItem from="1676965397575" duration="3064000" />
       <workItem from="1677127716925" duration="10386000" />
       <workItem from="1677158326869" duration="2482000" />
-      <workItem from="1677205897236" duration="1230000" />
+      <workItem from="1677205897236" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -272,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677160207013</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Data Types">
+      <created>1677207557062</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677207557062</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Data Types">
+      <created>1677207587117</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677207587118</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +320,7 @@
     <MESSAGE value="For Each Loop" />
     <MESSAGE value="Table of any number" />
     <MESSAGE value="Factorial of any number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorial of any number" />
+    <MESSAGE value="Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Types" />
   </component>
 </project>

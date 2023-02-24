@@ -1,4 +1,4 @@
-package com.codechef.solveProgrammingProblemUsingJava.dataTypes;
+package com.codechef.solveProblemUsingJava.dataTypes;
 
 public class DataTypes {
     public static void main(String[] args) {
