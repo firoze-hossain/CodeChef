@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="What are test cases up">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/testCases1/TestCases1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/testCases1/What are test cases 1.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="What are test cases1">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/testCases2/Test cases with multiple lines of input.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/testCases2/TestCases2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TestCases1">
-    <configuration name="AcceptStringInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.acceptStringInputs.AcceptStringInputs" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.acceptStringInputs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestCases2">
     <configuration name="InputMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.inputMirror.InputMirror" />
       <module name="Codechef" />
@@ -116,24 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="TestCases2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.testCases2.TestCases2" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.testCases2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCases2" />
         <item itemvalue="Application.TestCases1" />
         <item itemvalue="Application.TestCases" />
         <item itemvalue="Application.InputMirror" />
         <item itemvalue="Application.PrintOutput" />
-        <item itemvalue="Application.AcceptStringInputs" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +177,8 @@
       <workItem from="1677260065935" duration="4401000" />
       <workItem from="1677294631638" duration="2484000" />
       <workItem from="1677305051263" duration="599000" />
-      <workItem from="1677324130735" duration="2239000" />
+      <workItem from="1677324130735" duration="2989000" />
+      <workItem from="1677343765166" duration="857000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -387,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677325900072</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="What are test cases1">
+      <created>1677328220764</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1677328220764</updated>
+    </task>
+    <task id="LOCAL-00032" summary="What are test cases1">
+      <created>1677328228923</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1677328228923</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,6 +445,7 @@
     <MESSAGE value="Input mirror" />
     <MESSAGE value="What are test cases" />
     <MESSAGE value="What are test cases up" />
-    <option name="LAST_COMMIT_MESSAGE" value="What are test cases up" />
+    <MESSAGE value="What are test cases1" />
+    <option name="LAST_COMMIT_MESSAGE" value="What are test cases1" />
   </component>
 </project>
