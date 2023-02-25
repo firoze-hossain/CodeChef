@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="How to accept string inputs">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/printOutput/How to print output.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/printOutput/PrintOutput.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="How to print output">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/inputMirror/Input mirror .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/inputMirror/InputMirror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PrintOutput">
-    <configuration name="AcceptIntegerInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.acceptIntegerInputs.AcceptIntegerInputs" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.acceptIntegerInputs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.InputMirror">
     <configuration name="AcceptMultipleInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.acceptMultipleInputs.AcceptMultipleInputs" />
       <module name="Codechef" />
@@ -86,6 +73,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.acceptStringInputs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.inputMirror.InputMirror" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.inputMirror.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputMirror" />
         <item itemvalue="Application.PrintOutput" />
         <item itemvalue="Application.AcceptStringInputs" />
         <item itemvalue="Application.AcceptMultipleIntegers" />
         <item itemvalue="Application.AcceptMultipleInputs" />
-        <item itemvalue="Application.AcceptIntegerInputs" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,7 @@
       <workItem from="1677205897236" duration="2968000" />
       <workItem from="1677248081365" duration="1075000" />
       <workItem from="1677260065935" duration="4401000" />
-      <workItem from="1677294631638" duration="662000" />
+      <workItem from="1677294631638" duration="1749000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -343,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677266474903</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="How to print output">
+      <created>1677295525749</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1677295525749</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,6 +387,7 @@
     <MESSAGE value="How to accept multiple inputs in a line" />
     <MESSAGE value="How to accept multiple integers on separate lines" />
     <MESSAGE value="How to accept string inputs" />
-    <option name="LAST_COMMIT_MESSAGE" value="How to accept string inputs" />
+    <MESSAGE value="How to print output" />
+    <option name="LAST_COMMIT_MESSAGE" value="How to print output" />
   </component>
 </project>
