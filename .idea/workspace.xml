@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="What are test cases1">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/testCases2/Test cases with multiple lines of input.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/testCases2/TestCases2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Test cases with multiple lines of input" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +174,7 @@
       <workItem from="1677294631638" duration="2484000" />
       <workItem from="1677305051263" duration="599000" />
       <workItem from="1677324130735" duration="2989000" />
-      <workItem from="1677343765166" duration="857000" />
+      <workItem from="1677343765166" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -404,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677328228923</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Test cases with multiple lines of input">
+      <created>1677345531464</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1677345531464</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,6 +449,7 @@
     <MESSAGE value="What are test cases" />
     <MESSAGE value="What are test cases up" />
     <MESSAGE value="What are test cases1" />
-    <option name="LAST_COMMIT_MESSAGE" value="What are test cases1" />
+    <MESSAGE value="Test cases with multiple lines of input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test cases with multiple lines of input" />
   </component>
 </project>
