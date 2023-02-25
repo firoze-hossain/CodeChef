@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class TestCases {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String A = sc.next();
-        String B = sc.next();
-        String C = sc.next();
-        String D = sc.next();
-        String E = sc.next();
+        int A = sc.nextInt();
+        int B = sc.nextInt();
+        int C = sc.nextInt();
+        int D = sc.nextInt();
+        int E = sc.nextInt();
         System.out.print(A + "\n" + B + "\n" + C + "\n" + D + "\n" + E);
     }
 }
