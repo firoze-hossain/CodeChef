@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Number mirror - Negative integer">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/doubleStrings/DoubleStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/doubleStrings/String mirror - Double strings.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="String mirror - Double strings">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugCode/Debug this code - Why is this code incorrect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugCode/DebugCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,20 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DoubleStrings">
+  <component name="RunManager" selected="Application.DebugCode">
+    <configuration name="DebugCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.debugCode.DebugCode" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.debugCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoubleStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.doubleStrings.DoubleStrings" />
       <module name="Codechef" />
@@ -70,19 +83,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.negInteger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.testCases.TestCases" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.testCases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DebugCode" />
         <item itemvalue="Application.DoubleStrings" />
         <item itemvalue="Application.NegativeInteger" />
         <item itemvalue="Application.TestCases2" />
         <item itemvalue="Application.TestCases1" />
-        <item itemvalue="Application.TestCases" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,7 @@
       <workItem from="1677305051263" duration="599000" />
       <workItem from="1677324130735" duration="2989000" />
       <workItem from="1677343765166" duration="1167000" />
-      <workItem from="1677428571947" duration="1926000" />
+      <workItem from="1677428571947" duration="3426000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -417,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677429582663</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="String mirror - Double strings">
+      <created>1677430607195</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1677430607195</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +443,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="xjumps init" />
     <MESSAGE value="xjumps init 1" />
     <MESSAGE value="Storing Variables" />
     <MESSAGE value="Accessing characters of a String" />
@@ -461,6 +467,7 @@
     <MESSAGE value="What are test cases1" />
     <MESSAGE value="Test cases with multiple lines of input" />
     <MESSAGE value="Number mirror - Negative integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number mirror - Negative integer" />
+    <MESSAGE value="String mirror - Double strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="String mirror - Double strings" />
   </component>
 </project>
