@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Test cases with multiple lines of input" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Test cases with multiple lines of input">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/negInteger/NegativeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/negInteger/Number mirror - Negative integer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TestCases2">
+  <component name="RunManager" selected="Application.NegativeInteger">
     <configuration name="InputMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.inputMirror.InputMirror" />
       <module name="Codechef" />
@@ -60,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.printOutput.PrintOutput" />
+    <configuration name="NegativeInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.negInteger.NegativeInteger" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.printOutput.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.negInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,26 +116,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NegativeInteger" />
         <item itemvalue="Application.TestCases2" />
         <item itemvalue="Application.TestCases1" />
         <item itemvalue="Application.TestCases" />
         <item itemvalue="Application.InputMirror" />
-        <item itemvalue="Application.PrintOutput" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +177,7 @@
       <workItem from="1677305051263" duration="599000" />
       <workItem from="1677324130735" duration="2989000" />
       <workItem from="1677343765166" duration="1167000" />
+      <workItem from="1677428571947" duration="938000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
