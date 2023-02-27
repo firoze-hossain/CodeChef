@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Programming problems - Basic math">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/tuitionFees/Practice problem - Tuition fees.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/tuitionFees/TuitionFees.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Tuition fees">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/fitness/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/fitness/Practice problem - Fitness.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TuitionFees">
+  <component name="RunManager" selected="Application.Fitness">
     <configuration name="BasicMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.basicMath.BasicMath" />
       <module name="Codechef" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.doubleStrings.DoubleStrings" />
+    <configuration name="Fitness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.fitness.Fitness" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.doubleStrings.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.fitness.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fitness" />
         <item itemvalue="Application.TuitionFees" />
         <item itemvalue="Application.BasicMath" />
         <item itemvalue="Application.DebugIncorCode" />
         <item itemvalue="Application.DebugCode" />
-        <item itemvalue="Application.DoubleStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,7 @@
       <workItem from="1677324130735" duration="2989000" />
       <workItem from="1677343765166" duration="1167000" />
       <workItem from="1677428571947" duration="3426000" />
-      <workItem from="1677466229336" duration="3575000" />
+      <workItem from="1677466229336" duration="6055000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -441,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677468481517</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Practice problem - Tuition fees">
+      <created>1677473613317</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1677473613317</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +467,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Accessing characters of a String" />
     <MESSAGE value="The AND operator" />
     <MESSAGE value="The OR operator" />
     <MESSAGE value="do while loop" />
@@ -485,6 +491,7 @@
     <MESSAGE value="String mirror - Double strings" />
     <MESSAGE value="Debug this code - Why is this code incorrect" />
     <MESSAGE value="Programming problems - Basic math" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programming problems - Basic math" />
+    <MESSAGE value="Practice problem - Tuition fees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Tuition fees" />
   </component>
 </project>
