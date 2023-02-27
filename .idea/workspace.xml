@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Fitness">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/subtractionDivision/Subtraction and division of numbers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/subtractionDivision/SubtractionDivision.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Subtraction and division of numbers">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/divisionDecimalOut/Division with integer and decimal output .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/divisionDecimalOut/DivisionDecimalOut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SubtractionDivision">
-    <configuration name="BasicMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.basicMath.BasicMath" />
+  <component name="RunManager" selected="Application.DivisionDecimalOut">
+    <configuration name="DivisionDecimalOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.divisionDecimalOut.DivisionDecimalOut" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.basicMath.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.divisionDecimalOut.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivisionDecimalOut" />
         <item itemvalue="Application.SubtractionDivision" />
         <item itemvalue="Application.TotalPrizeMoney" />
         <item itemvalue="Application.Fitness" />
         <item itemvalue="Application.TuitionFees" />
-        <item itemvalue="Application.BasicMath" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,7 @@
       <workItem from="1677343765166" duration="1167000" />
       <workItem from="1677428571947" duration="3426000" />
       <workItem from="1677466229336" duration="7170000" />
-      <workItem from="1677516618354" duration="1108000" />
+      <workItem from="1677516618354" duration="3642000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -454,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677486266331</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Subtraction and division of numbers">
+      <created>1677519057611</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1677519057611</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +480,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The OR operator" />
     <MESSAGE value="do while loop" />
     <MESSAGE value="Break Statement" />
     <MESSAGE value="Continue Statement" />
@@ -498,6 +504,7 @@
     <MESSAGE value="Programming problems - Basic math" />
     <MESSAGE value="Practice problem - Tuition fees" />
     <MESSAGE value="Practice problem - Fitness" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Fitness" />
+    <MESSAGE value="Subtraction and division of numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subtraction and division of numbers" />
   </component>
 </project>
