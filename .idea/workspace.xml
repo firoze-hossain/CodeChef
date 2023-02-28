@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Subtraction and division of numbers">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/squats/Practice problem - Squats.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/squats/Squats.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Squats">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/determineScore/Debug this code - Determine the Score.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/determineScore/DetermineScore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Squats">
-    <configuration name="DivisionDecimalOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.divisionDecimalOut.DivisionDecimalOut" />
+  <component name="RunManager" selected="Application.DetermineScore">
+    <configuration name="DetermineScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.determineScore.DetermineScore" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.divisionDecimalOut.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.determineScore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fitness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.fitness.Fitness" />
+    <configuration name="DivisionDecimalOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.divisionDecimalOut.DivisionDecimalOut" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.fitness.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.divisionDecimalOut.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,26 +116,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DetermineScore" />
         <item itemvalue="Application.Squats" />
         <item itemvalue="Application.DivisionDecimalOut" />
         <item itemvalue="Application.SubtractionDivision" />
         <item itemvalue="Application.TotalPrizeMoney" />
-        <item itemvalue="Application.Fitness" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +180,8 @@
       <workItem from="1677428571947" duration="3426000" />
       <workItem from="1677466229336" duration="7170000" />
       <workItem from="1677516618354" duration="3642000" />
-      <workItem from="1677553071667" duration="861000" />
+      <workItem from="1677553071667" duration="1697000" />
+      <workItem from="1677567279685" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -464,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677519057611</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Practice problem - Squats">
+      <created>1677554129990</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1677554129990</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +489,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="do while loop" />
     <MESSAGE value="Break Statement" />
     <MESSAGE value="Continue Statement" />
     <MESSAGE value="Looping through Array" />
@@ -508,6 +513,7 @@
     <MESSAGE value="Practice problem - Tuition fees" />
     <MESSAGE value="Practice problem - Fitness" />
     <MESSAGE value="Subtraction and division of numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subtraction and division of numbers" />
+    <MESSAGE value="Practice problem - Squats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Squats" />
   </component>
 </project>
