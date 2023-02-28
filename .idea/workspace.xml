@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Some useful math functions">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/capacity/Capacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/capacity/Practice problem - Capacity.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Capacity">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugCredits/Debug this code - Credits.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugCredits/DebugCredits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Capacity">
+  <component name="RunManager" selected="Application.DebugCredits">
     <configuration name="Burgers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.burgers.Burgers" />
       <module name="Codechef" />
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetermineScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.determineScore.DetermineScore" />
+    <configuration name="DebugCredits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.debugCredits.DebugCredits" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.determineScore.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.debugCredits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DebugCredits" />
         <item itemvalue="Application.Capacity" />
         <item itemvalue="Application.Burgers" />
         <item itemvalue="Application.MathFunctions" />
         <item itemvalue="Application.Population" />
-        <item itemvalue="Application.DetermineScore" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,7 @@
       <workItem from="1677553071667" duration="1697000" />
       <workItem from="1677567279685" duration="5080000" />
       <workItem from="1677584832740" duration="90000" />
-      <workItem from="1677598061550" duration="467000" />
+      <workItem from="1677598061550" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -493,7 +493,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677579803198</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Practice problem - Capacity">
+      <created>1677598652119</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1677598652119</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Practice problem - Capacity">
+      <created>1677598662690</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1677598662690</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +526,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="For Each Loop" />
     <MESSAGE value="Table of any number" />
     <MESSAGE value="Factorial of any number" />
     <MESSAGE value="Data Types" />
@@ -537,6 +550,7 @@
     <MESSAGE value="Debug this code - Determine the Score" />
     <MESSAGE value="Debug this code - Population" />
     <MESSAGE value="Some useful math functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some useful math functions" />
+    <MESSAGE value="Practice problem - Capacity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Capacity" />
   </component>
 </project>
