@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Debug this code - Determine the Score">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/population/Debug this code - Population.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/population/Population.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Debug this code - Population">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/mathFunctions/MathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/mathFunctions/Some useful math functions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Population">
+  <component name="RunManager" selected="Application.MathFunctions">
     <configuration name="DetermineScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.determineScore.DetermineScore" />
       <module name="Codechef" />
@@ -77,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MathFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.mathFunctions.MathFunctions" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.mathFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Population" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.population.Population" />
       <module name="Codechef" />
@@ -103,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtractionDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.subtractionDivision.SubtractionDivision" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.subtractionDivision.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathFunctions" />
         <item itemvalue="Application.Population" />
         <item itemvalue="Application.DetermineScore" />
         <item itemvalue="Application.Squats" />
         <item itemvalue="Application.DivisionDecimalOut" />
-        <item itemvalue="Application.SubtractionDivision" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +181,7 @@
       <workItem from="1677466229336" duration="7170000" />
       <workItem from="1677516618354" duration="3642000" />
       <workItem from="1677553071667" duration="1697000" />
-      <workItem from="1677567279685" duration="2481000" />
+      <workItem from="1677567279685" duration="4723000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -477,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677569803160</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Debug this code - Population">
+      <created>1677577378028</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1677577378028</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,7 +503,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Continue Statement" />
     <MESSAGE value="Looping through Array" />
     <MESSAGE value="For Each Loop" />
     <MESSAGE value="Table of any number" />
@@ -521,6 +527,7 @@
     <MESSAGE value="Subtraction and division of numbers" />
     <MESSAGE value="Practice problem - Squats" />
     <MESSAGE value="Debug this code - Determine the Score" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debug this code - Determine the Score" />
+    <MESSAGE value="Debug this code - Population" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debug this code - Population" />
   </component>
 </project>
