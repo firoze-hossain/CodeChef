@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review problem - 1">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem2/Review problem - 2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem2/ReviewProblem2.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review problem - 2.2">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem3/Review problem - 3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem3/ReviewProblem3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ReviewProblem2">
-    <configuration name="Capacity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.capacity.Capacity" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.capacity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReviewProblem3">
     <configuration name="DebugCredits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.debugCredits.DebugCredits" />
       <module name="Codechef" />
@@ -116,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReviewProblem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.reviewProblem3.ReviewProblem3" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.reviewProblem3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReviewProblem3" />
         <item itemvalue="Application.ReviewProblem2" />
         <item itemvalue="Application.ReviewProblem1" />
         <item itemvalue="Application.MaxMinusMin" />
         <item itemvalue="Application.DebugCredits" />
-        <item itemvalue="Application.Capacity" />
       </list>
     </recent_temporary>
   </component>
@@ -185,14 +185,7 @@
       <workItem from="1677584832740" duration="90000" />
       <workItem from="1677598061550" duration="1237000" />
       <workItem from="1677650902934" duration="4337000" />
-      <workItem from="1677676178757" duration="1510000" />
-    </task>
-    <task id="LOCAL-00001" summary="xjumps init">
-      <created>1667802308547</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1667802308547</updated>
+      <workItem from="1677676178757" duration="2872000" />
     </task>
     <task id="LOCAL-00002" summary="xjumps init 1">
       <created>1667802782815</created>
@@ -523,7 +516,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677662533779</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Review problem - 2">
+      <created>1677678722667</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1677678722667</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Review problem - 2.2">
+      <created>1677678741236</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1677678741237</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,8 +549,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Data Types" />
-    <MESSAGE value="How to accept inputs" />
     <MESSAGE value="How to accept multiple inputs in a line" />
     <MESSAGE value="How to accept multiple integers on separate lines" />
     <MESSAGE value="How to accept string inputs" />
@@ -567,6 +572,8 @@
     <MESSAGE value="Practice problem - Capacity" />
     <MESSAGE value="Max minus Min" />
     <MESSAGE value="Review problem - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Review problem - 1" />
+    <MESSAGE value="Review problem - 2" />
+    <MESSAGE value="Review problem - 2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review problem - 2.2" />
   </component>
 </project>
