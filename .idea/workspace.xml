@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Capacity">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/maxMinusMin/Max minus Min.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/maxMinusMin/MaxMinusMin.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Max minus Min">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MaxMinusMin">
+  <component name="RunManager" selected="Application.ReviewProblem1">
     <configuration name="Burgers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.burgers.Burgers" />
       <module name="Codechef" />
@@ -90,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.mathFunctions.MathFunctions" />
+    <configuration name="MaxMinusMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.maxMinusMin.MaxMinusMin" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.mathFunctions.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.maxMinusMin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMinusMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.maxMinusMin.MaxMinusMin" />
+    <configuration name="ReviewProblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.reviewProblem1.ReviewProblem1" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.maxMinusMin.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.reviewProblem1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReviewProblem1" />
         <item itemvalue="Application.MaxMinusMin" />
         <item itemvalue="Application.DebugCredits" />
         <item itemvalue="Application.Capacity" />
         <item itemvalue="Application.Burgers" />
-        <item itemvalue="Application.MathFunctions" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +184,7 @@
       <workItem from="1677567279685" duration="5080000" />
       <workItem from="1677584832740" duration="90000" />
       <workItem from="1677598061550" duration="1237000" />
-      <workItem from="1677650902934" duration="1675000" />
+      <workItem from="1677650902934" duration="2877000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
@@ -510,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677598662690</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Max minus Min">
+      <created>1677655215421</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1677655215421</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +534,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Table of any number" />
     <MESSAGE value="Factorial of any number" />
     <MESSAGE value="Data Types" />
     <MESSAGE value="How to accept inputs" />
@@ -554,6 +558,7 @@
     <MESSAGE value="Debug this code - Population" />
     <MESSAGE value="Some useful math functions" />
     <MESSAGE value="Practice problem - Capacity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Capacity" />
+    <MESSAGE value="Max minus Min" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max minus Min" />
   </component>
 </project>
