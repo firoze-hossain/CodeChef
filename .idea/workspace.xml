@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Capacity">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugCredits/Debug this code - Credits.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugCredits/DebugCredits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/maxMinusMin/Max minus Min.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/maxMinusMin/MaxMinusMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DebugCredits">
+  <component name="RunManager" selected="Application.MaxMinusMin">
     <configuration name="Burgers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.burgers.Burgers" />
       <module name="Codechef" />
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Population" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.population.Population" />
+    <configuration name="MaxMinusMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.maxMinusMin.MaxMinusMin" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.population.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.maxMinusMin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,24 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxMinusMin" />
         <item itemvalue="Application.DebugCredits" />
         <item itemvalue="Application.Capacity" />
         <item itemvalue="Application.Burgers" />
         <item itemvalue="Application.MathFunctions" />
-        <item itemvalue="Application.Population" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +186,7 @@
       <workItem from="1677567279685" duration="5080000" />
       <workItem from="1677584832740" duration="90000" />
       <workItem from="1677598061550" duration="1237000" />
+      <workItem from="1677650902934" duration="1675000" />
     </task>
     <task id="LOCAL-00001" summary="xjumps init">
       <created>1667802308547</created>
