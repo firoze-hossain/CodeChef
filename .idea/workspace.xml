@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review problem - 2.2">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem3/Review problem - 3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem3/ReviewProblem3.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review problem - 3">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem4/Review problem - 4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/reviewProblem4/ReviewProblem4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ReviewProblem3">
-    <configuration name="DebugCredits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.debugCredits.DebugCredits" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.debugCredits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReviewProblem4">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
@@ -116,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReviewProblem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.reviewProblem4.ReviewProblem4" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.reviewProblem4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReviewProblem4" />
         <item itemvalue="Application.ReviewProblem3" />
         <item itemvalue="Application.ReviewProblem2" />
         <item itemvalue="Application.ReviewProblem1" />
         <item itemvalue="Application.MaxMinusMin" />
-        <item itemvalue="Application.DebugCredits" />
       </list>
     </recent_temporary>
   </component>
@@ -185,21 +185,7 @@
       <workItem from="1677584832740" duration="90000" />
       <workItem from="1677598061550" duration="1237000" />
       <workItem from="1677650902934" duration="4337000" />
-      <workItem from="1677676178757" duration="2872000" />
-    </task>
-    <task id="LOCAL-00002" summary="xjumps init 1">
-      <created>1667802782815</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1667802782815</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Storing Variables">
-      <created>1675518225600</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1675518225600</updated>
+      <workItem from="1677676178757" duration="4349000" />
     </task>
     <task id="LOCAL-00004" summary="Accessing characters of a String">
       <created>1676310014676</created>
@@ -530,7 +516,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677678741237</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Review problem - 3">
+      <created>1677680407232</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1677680407232</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Review problem - 3">
+      <created>1677680421563</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1677680421564</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +549,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="How to accept multiple inputs in a line" />
     <MESSAGE value="How to accept multiple integers on separate lines" />
     <MESSAGE value="How to accept string inputs" />
     <MESSAGE value="How to print output" />
@@ -574,6 +573,7 @@
     <MESSAGE value="Review problem - 1" />
     <MESSAGE value="Review problem - 2" />
     <MESSAGE value="Review problem - 2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Review problem - 2.2" />
+    <MESSAGE value="Review problem - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review problem - 3" />
   </component>
 </project>
