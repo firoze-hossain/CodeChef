@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Tax in Chefland">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/aliceMarks/AliceMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/aliceMarks/Practice problem - Alice and Marks.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Alice and Marks">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/applesOranges/ApplesOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/applesOranges/Practice problem - Apples and Oranges.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AliceMarks">
+  <component name="RunManager" selected="Application.ApplesOranges">
     <configuration name="AgeLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.ageLimit.AgeLimit" />
       <module name="Codechef" />
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.conditionalStatements.ConditionalStatements" />
+    <configuration name="ApplesOranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.applesOranges.ApplesOranges" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.conditionalStatements.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.applesOranges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ApplesOranges" />
         <item itemvalue="Application.AliceMarks" />
         <item itemvalue="Application.TaxChefland" />
         <item itemvalue="Application.AgeLimit" />
         <item itemvalue="Application.SyntaxUsage" />
-        <item itemvalue="Application.ConditionalStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -187,14 +187,7 @@
       <workItem from="1677650902934" duration="4337000" />
       <workItem from="1677676178757" duration="4349000" />
       <workItem from="1677691337077" duration="1143000" />
-      <workItem from="1677764769241" duration="4361000" />
-    </task>
-    <task id="LOCAL-00008" summary="Break Statement">
-      <created>1677135109833</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1677135109833</updated>
+      <workItem from="1677764769241" duration="5302000" />
     </task>
     <task id="LOCAL-00009" summary="Break Statement">
       <created>1677135120456</created>
@@ -532,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677778321156</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Practice problem - Alice and Marks">
+      <created>1677779085682</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1677779085682</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +551,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="What are test cases" />
     <MESSAGE value="What are test cases up" />
     <MESSAGE value="What are test cases1" />
     <MESSAGE value="Test cases with multiple lines of input" />
@@ -576,6 +575,7 @@
     <MESSAGE value="Review syntax usage" />
     <MESSAGE value="Practice problem - Age Limit" />
     <MESSAGE value="Practice problem - Tax in Chefland" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Tax in Chefland" />
+    <MESSAGE value="Practice problem - Alice and Marks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Alice and Marks" />
   </component>
 </project>
