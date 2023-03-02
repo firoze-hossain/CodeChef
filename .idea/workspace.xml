@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review syntax usage">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/ageLimit/AgeLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/ageLimit/Practice problem - Age Limit.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Age Limit">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/taxChefland/Practice problem - Tax in Chefland.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/taxChefland/TaxChefland.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AgeLimit">
+  <component name="RunManager" selected="Application.TaxChefland">
     <configuration name="AgeLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.ageLimit.AgeLimit" />
       <module name="Codechef" />
@@ -76,19 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReviewProblem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.reviewProblem4.ReviewProblem4" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.reviewProblem4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReviewProblem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.reviewProblem5.ReviewProblem5" />
       <module name="Codechef" />
@@ -115,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaxChefland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.taxChefland.TaxChefland" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.taxChefland.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaxChefland" />
         <item itemvalue="Application.AgeLimit" />
         <item itemvalue="Application.SyntaxUsage" />
         <item itemvalue="Application.ConditionalStatements" />
         <item itemvalue="Application.ReviewProblem5" />
-        <item itemvalue="Application.ReviewProblem4" />
       </list>
     </recent_temporary>
   </component>
@@ -186,14 +186,7 @@
       <workItem from="1677650902934" duration="4337000" />
       <workItem from="1677676178757" duration="4349000" />
       <workItem from="1677691337077" duration="1143000" />
-      <workItem from="1677764769241" duration="3008000" />
-    </task>
-    <task id="LOCAL-00006" summary="The OR operator">
-      <created>1676966396602</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1676966396603</updated>
+      <workItem from="1677764769241" duration="3694000" />
     </task>
     <task id="LOCAL-00007" summary="do while loop">
       <created>1677130397405</created>
@@ -531,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677776611989</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Practice problem - Age Limit">
+      <created>1677777691034</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1677777691034</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +550,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="How to print output" />
     <MESSAGE value="Input mirror" />
     <MESSAGE value="What are test cases" />
     <MESSAGE value="What are test cases up" />
@@ -575,6 +574,7 @@
     <MESSAGE value="Review problem - 3" />
     <MESSAGE value="Module on basic conditional statements" />
     <MESSAGE value="Review syntax usage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Review syntax usage" />
+    <MESSAGE value="Practice problem - Age Limit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Age Limit" />
   </component>
 </project>
