@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Debug this code - Chef gives Party">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugRent/Debug this code - Chef rent car.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugRent/DebugRent.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Debug this code - Chef rent car">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugAdvance/Debug this code - Advance .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/debugAdvance/DebugAdvance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DebugRent">
-    <configuration name="ApplesOranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.applesOranges.ApplesOranges" />
+  <component name="RunManager" selected="Application.DebugAdvance">
+    <configuration name="DebugAdvance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.debugAdvance.DebugAdvance" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.applesOranges.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.debugAdvance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,24 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DebugAdvance" />
         <item itemvalue="Application.DebugRent" />
         <item itemvalue="Application.DebugParty" />
         <item itemvalue="Application.InteriorDesign" />
         <item itemvalue="Application.DebugFootballCup" />
-        <item itemvalue="Application.ApplesOranges" />
       </list>
     </recent_temporary>
   </component>
@@ -187,14 +189,8 @@
       <workItem from="1677650902934" duration="4337000" />
       <workItem from="1677676178757" duration="4349000" />
       <workItem from="1677691337077" duration="1143000" />
-      <workItem from="1677764769241" duration="10324000" />
-    </task>
-    <task id="LOCAL-00013" summary="Table of any number">
-      <created>1677159529491</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1677159529491</updated>
+      <workItem from="1677764769241" duration="10703000" />
+      <workItem from="1677814661127" duration="755000" />
     </task>
     <task id="LOCAL-00014" summary="Factorial of any number">
       <created>1677160207013</created>
@@ -532,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677784101682</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Debug this code - Chef rent car">
+      <created>1677785472174</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1677785472174</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +554,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String mirror - Double strings" />
     <MESSAGE value="Debug this code - Why is this code incorrect" />
     <MESSAGE value="Programming problems - Basic math" />
     <MESSAGE value="Practice problem - Tuition fees" />
@@ -576,6 +578,7 @@
     <MESSAGE value="Debug this code - Football Cup" />
     <MESSAGE value="Practice problem - Interior Design" />
     <MESSAGE value="Debug this code - Chef gives Party" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debug this code - Chef gives Party" />
+    <MESSAGE value="Debug this code - Chef rent car" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debug this code - Chef rent car" />
   </component>
 </project>
