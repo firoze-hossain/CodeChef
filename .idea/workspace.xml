@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Make Avg) - Solve sub-components">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/solveSubCompAvg/Problem (Make Avg) - Solve sub-components .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/solveSubCompAvg/SolveSubCompAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsGenExam/FarmAnimalsGenExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsGenExam/Problem(Farm animals) - Generate examples.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SolveSubCompAvg">
-    <configuration name="CondReviewProb5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.condReviewProb5.CondReviewProb5" />
+  <component name="RunManager" selected="Application.FarmAnimalsGenExam">
+    <configuration name="FarmAnimalsGenExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.farmAnimalsGenExam.FarmAnimalsGenExam" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.condReviewProb5.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.farmAnimalsGenExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FarmAnimalsGenExam" />
         <item itemvalue="Application.SolveSubCompAvg" />
         <item itemvalue="Application.ProblemMakeAvg" />
         <item itemvalue="Application.MakeAvgExam" />
         <item itemvalue="Application.MakeAvg" />
-        <item itemvalue="Application.CondReviewProb5" />
       </list>
     </recent_temporary>
   </component>
@@ -194,14 +194,7 @@
       <workItem from="1677824719178" duration="1661000" />
       <workItem from="1677945694069" duration="4905000" />
       <workItem from="1678102564318" duration="2554000" />
-      <workItem from="1678111055165" duration="1305000" />
-    </task>
-    <task id="LOCAL-00023" summary="How to accept string inputs">
-      <created>1677266460243</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1677266460243</updated>
+      <workItem from="1678111055165" duration="3422000" />
     </task>
     <task id="LOCAL-00024" summary="How to accept string inputs">
       <created>1677266474903</created>
@@ -539,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678111812959</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Problem (Make Avg) - Solve sub-components">
+      <created>1678116050241</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1678116050241</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
