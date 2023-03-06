@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review problem - 5">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/makeAvg/MakeAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/makeAvg/Problem (Make Avg) - Read the problem statement .md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Make Avg) - Read the problem statement">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/makeAvgExam/MakeAvgExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/makeAvgExam/Problem (Make Avg) - Generate examples .md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MakeAvg">
-    <configuration name="CondReviewProb2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.condReviewProb2.CondReviewProb2" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.condReviewProb2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MakeAvgExam">
     <configuration name="CondReviewProb3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.condReviewProb3.CondReviewProb3" />
       <module name="Codechef" />
@@ -116,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MakeAvgExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.makeAvgExam.MakeAvgExam" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.makeAvgExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeAvgExam" />
         <item itemvalue="Application.MakeAvg" />
         <item itemvalue="Application.CondReviewProb5" />
         <item itemvalue="Application.CondReviewProb4" />
         <item itemvalue="Application.CondReviewProb3" />
-        <item itemvalue="Application.CondReviewProb2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +191,7 @@
       <workItem from="1677814661127" duration="1970000" />
       <workItem from="1677824719178" duration="1661000" />
       <workItem from="1677945694069" duration="4905000" />
-      <workItem from="1678102564318" duration="1631000" />
-    </task>
-    <task id="LOCAL-00020" summary="How to accept multiple inputs in a line">
-      <created>1677262987075</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1677262987075</updated>
+      <workItem from="1678102564318" duration="2396000" />
     </task>
     <task id="LOCAL-00021" summary="How to accept multiple integers on separate lines">
       <created>1677265034402</created>
@@ -536,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677954311593</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Problem (Make Avg) - Read the problem statement">
+      <created>1678105419246</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1678105419246</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +555,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice problem - Fitness" />
     <MESSAGE value="Subtraction and division of numbers" />
     <MESSAGE value="Practice problem - Squats" />
     <MESSAGE value="Debug this code - Determine the Score" />
@@ -580,6 +579,7 @@
     <MESSAGE value="Review problem - 3" />
     <MESSAGE value="Review problem - 4" />
     <MESSAGE value="Review problem - 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Review problem - 5" />
+    <MESSAGE value="Problem (Make Avg) - Read the problem statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (Make Avg) - Read the problem statement" />
   </component>
 </project>
