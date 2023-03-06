@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Make Avg) - Solve sub-components">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsGenExam/FarmAnimalsGenExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsGenExam/Problem(Farm animals) - Generate examples.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem(Farm animals) - Generate examples">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsComplete/FarmAnimalsComplete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsComplete/Problem(Farm animals) - Solve the complete problem.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,20 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FarmAnimalsGenExam">
+  <component name="RunManager" selected="Application.FarmAnimalsComplete">
+    <configuration name="FarmAnimalsComplete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.farmAnimalsComplete.FarmAnimalsComplete" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.farmAnimalsComplete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FarmAnimalsGenExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.farmAnimalsGenExam.FarmAnimalsGenExam" />
       <module name="Codechef" />
@@ -60,19 +73,6 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MakeAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.makeAvg.MakeAvg" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.makeAvg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FarmAnimalsComplete" />
         <item itemvalue="Application.FarmAnimalsGenExam" />
         <item itemvalue="Application.SolveSubCompAvg" />
         <item itemvalue="Application.ProblemMakeAvg" />
         <item itemvalue="Application.MakeAvgExam" />
-        <item itemvalue="Application.MakeAvg" />
       </list>
     </recent_temporary>
   </component>
@@ -194,14 +194,7 @@
       <workItem from="1677824719178" duration="1661000" />
       <workItem from="1677945694069" duration="4905000" />
       <workItem from="1678102564318" duration="2554000" />
-      <workItem from="1678111055165" duration="3422000" />
-    </task>
-    <task id="LOCAL-00024" summary="How to accept string inputs">
-      <created>1677266474903</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1677266474903</updated>
+      <workItem from="1678111055165" duration="4359000" />
     </task>
     <task id="LOCAL-00025" summary="How to print output">
       <created>1677295525749</created>
@@ -539,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678116050241</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Problem(Farm animals) - Generate examples">
+      <created>1678121587756</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1678121587756</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +558,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Debug this code - Determine the Score" />
     <MESSAGE value="Debug this code - Population" />
     <MESSAGE value="Some useful math functions" />
     <MESSAGE value="Practice problem - Capacity" />
@@ -583,6 +582,7 @@
     <MESSAGE value="Problem (Make Avg) - Read the problem statement" />
     <MESSAGE value="Problem (Make Avg) - Generate examples" />
     <MESSAGE value="Problem (Make Avg) - Solve sub-components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (Make Avg) - Solve sub-components" />
+    <MESSAGE value="Problem(Farm animals) - Generate examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem(Farm animals) - Generate examples" />
   </component>
 </project>
