@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review problem - 4">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/condReviewProb5/CondReviewProb5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/condReviewProb5/Review problem - 5.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Review problem - 5">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/makeAvg/MakeAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/makeAvg/Problem (Make Avg) - Read the problem statement .md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CondReviewProb5">
-    <configuration name="CondReviewProb1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.condReviewProb1.CondReviewProb1" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.condReviewProb1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MakeAvg">
     <configuration name="CondReviewProb2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.condReviewProb2.CondReviewProb2" />
       <module name="Codechef" />
@@ -116,26 +103,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="MakeAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.makeAvg.MakeAvg" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.makeAvg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeAvg" />
         <item itemvalue="Application.CondReviewProb5" />
         <item itemvalue="Application.CondReviewProb4" />
         <item itemvalue="Application.CondReviewProb3" />
         <item itemvalue="Application.CondReviewProb2" />
-        <item itemvalue="Application.CondReviewProb1" />
       </list>
     </recent_temporary>
   </component>
@@ -192,14 +190,8 @@
       <workItem from="1677764769241" duration="10703000" />
       <workItem from="1677814661127" duration="1970000" />
       <workItem from="1677824719178" duration="1661000" />
-      <workItem from="1677945694069" duration="4589000" />
-    </task>
-    <task id="LOCAL-00019" summary="How to accept multiple inputs in a line">
-      <created>1677262976455</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1677262976455</updated>
+      <workItem from="1677945694069" duration="4905000" />
+      <workItem from="1678102564318" duration="1631000" />
     </task>
     <task id="LOCAL-00020" summary="How to accept multiple inputs in a line">
       <created>1677262987075</created>
@@ -537,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677952516681</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Review problem - 5">
+      <created>1677954311593</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1677954311593</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +555,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice problem - Tuition fees" />
     <MESSAGE value="Practice problem - Fitness" />
     <MESSAGE value="Subtraction and division of numbers" />
     <MESSAGE value="Practice problem - Squats" />
@@ -581,6 +579,7 @@
     <MESSAGE value="Review problem - 2" />
     <MESSAGE value="Review problem - 3" />
     <MESSAGE value="Review problem - 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Review problem - 4" />
+    <MESSAGE value="Review problem - 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review problem - 5" />
   </component>
 </project>
