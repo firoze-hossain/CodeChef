@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem(Farm animals) - Generate examples">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsComplete/FarmAnimalsComplete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/farmAnimalsComplete/Problem(Farm animals) - Solve the complete problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem(Farm animals) - Generate examples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +36,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FarmAnimalsComplete">
+  <component name="RunManager" selected="Application.HighAccuracyGenExam">
     <configuration name="FarmAnimalsComplete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.farmAnimalsComplete.FarmAnimalsComplete" />
       <module name="Codechef" />
@@ -67,25 +63,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HighAccuracyGenExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyGenExam.HighAccuracyGenExam" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracyGenExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MakeAvgExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.makeAvgExam.MakeAvgExam" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.makeAvgExam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,26 +112,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighAccuracyGenExam" />
         <item itemvalue="Application.FarmAnimalsComplete" />
         <item itemvalue="Application.FarmAnimalsGenExam" />
         <item itemvalue="Application.SolveSubCompAvg" />
         <item itemvalue="Application.ProblemMakeAvg" />
-        <item itemvalue="Application.MakeAvgExam" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +189,7 @@
       <workItem from="1677945694069" duration="4905000" />
       <workItem from="1678102564318" duration="2554000" />
       <workItem from="1678111055165" duration="4359000" />
+      <workItem from="1678208555202" duration="599000" />
     </task>
     <task id="LOCAL-00025" summary="How to print output">
       <created>1677295525749</created>
