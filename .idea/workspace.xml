@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem(High Accuracy)- Solve the complete problem">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemMOVIE2X/Problem (MOVIE2X) - Generate examples.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemMOVIE2X/ProblemMOVIE2X.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (MOVIE2X) - Generate examples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,20 +36,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ProblemMOVIE2X">
-    <configuration name="FarmAnimalsComplete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.farmAnimalsComplete.FarmAnimalsComplete" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.farmAnimalsComplete.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProblemMOVIE2XComp">
     <configuration name="HighAccuracyCompProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.HighAccuracyCompProb" />
       <module name="Codechef" />
@@ -116,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProblemMOVIE2XComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemMOVIE2XComp.ProblemMOVIE2XComp" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemMOVIE2XComp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProblemMOVIE2XComp" />
         <item itemvalue="Application.ProblemMOVIE2X" />
         <item itemvalue="Application.HighAccuracyCompProb" />
         <item itemvalue="Application.HighAccuracySubComp" />
         <item itemvalue="Application.HighAccuracyGenExam" />
-        <item itemvalue="Application.FarmAnimalsComplete" />
       </list>
     </recent_temporary>
   </component>
@@ -195,14 +191,7 @@
       <workItem from="1678111055165" duration="4359000" />
       <workItem from="1678208555202" duration="3223000" />
       <workItem from="1678466338919" duration="198000" />
-      <workItem from="1678466834936" duration="1266000" />
-    </task>
-    <task id="LOCAL-00028" summary="What are test cases">
-      <created>1677325582604</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1677325582604</updated>
+      <workItem from="1678466834936" duration="1901000" />
     </task>
     <task id="LOCAL-00029" summary="What are test cases">
       <created>1677325593416</created>
@@ -540,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678212565806</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Problem (MOVIE2X) - Generate examples">
+      <created>1678470439851</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1678470439852</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +555,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice problem - Capacity" />
     <MESSAGE value="Max minus Min" />
     <MESSAGE value="Review problem - 2.2" />
     <MESSAGE value="Module on basic conditional statements" />
@@ -584,6 +579,7 @@
     <MESSAGE value="Problem(Farm animals) - Generate examples" />
     <MESSAGE value="Problem 3 (High Accuracy) - Generate examples" />
     <MESSAGE value="Problem 3 (High Accuracy) - Solve sub-components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 3 (High Accuracy) - Solve sub-components" />
+    <MESSAGE value="Problem (MOVIE2X) - Generate examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (MOVIE2X) - Generate examples" />
   </component>
 </project>
