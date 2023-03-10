@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (MOVIE2X) - Generate examples" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (MOVIE2X) - Solve the complete problem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +36,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ProblemMOVIE2XComp">
-    <configuration name="HighAccuracyCompProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.HighAccuracyCompProb" />
+  <component name="RunManager" selected="Application.FlipCardsProb">
+    <configuration name="FlipCardsProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.flipCardsProb.FlipCardsProb" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.flipCardsProb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighAccuracyGenExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyGenExam.HighAccuracyGenExam" />
+    <configuration name="HighAccuracyCompProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.HighAccuracyCompProb" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracyGenExam.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlipCardsProb" />
         <item itemvalue="Application.ProblemMOVIE2XComp" />
         <item itemvalue="Application.ProblemMOVIE2X" />
         <item itemvalue="Application.HighAccuracyCompProb" />
         <item itemvalue="Application.HighAccuracySubComp" />
-        <item itemvalue="Application.HighAccuracyGenExam" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +191,7 @@
       <workItem from="1678111055165" duration="4359000" />
       <workItem from="1678208555202" duration="3223000" />
       <workItem from="1678466338919" duration="198000" />
-      <workItem from="1678466834936" duration="1901000" />
-    </task>
-    <task id="LOCAL-00029" summary="What are test cases">
-      <created>1677325593416</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1677325593416</updated>
+      <workItem from="1678466834936" duration="2747000" />
     </task>
     <task id="LOCAL-00030" summary="What are test cases up">
       <created>1677325900072</created>
@@ -536,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678470439852</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Problem (MOVIE2X) - Solve the complete problem">
+      <created>1678471668754</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1678471668754</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +555,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Max minus Min" />
     <MESSAGE value="Review problem - 2.2" />
     <MESSAGE value="Module on basic conditional statements" />
     <MESSAGE value="Review syntax usage" />
@@ -580,6 +579,7 @@
     <MESSAGE value="Problem 3 (High Accuracy) - Generate examples" />
     <MESSAGE value="Problem 3 (High Accuracy) - Solve sub-components" />
     <MESSAGE value="Problem (MOVIE2X) - Generate examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (MOVIE2X) - Generate examples" />
+    <MESSAGE value="Problem (MOVIE2X) - Solve the complete problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (MOVIE2X) - Solve the complete problem" />
   </component>
 </project>
