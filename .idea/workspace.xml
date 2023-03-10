@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Flip cards) - Generate examples" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Flip cards) - Solve sub-components">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/flipCardsComplProb/FlipCardsComplProb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/flipCardsComplProb/Problem (Flip cards) - Solve the complete problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,20 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FlipCardsSubComp">
+  <component name="RunManager" selected="Application.FlipCardsComplProb">
+    <configuration name="FlipCardsComplProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.flipCardsComplProb.FlipCardsComplProb" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.flipCardsComplProb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlipCardsProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.flipCardsProb.FlipCardsProb" />
       <module name="Codechef" />
@@ -56,19 +73,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.flipCardsSubComp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HighAccuracyCompProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.HighAccuracyCompProb" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlipCardsComplProb" />
         <item itemvalue="Application.FlipCardsSubComp" />
         <item itemvalue="Application.FlipCardsProb" />
         <item itemvalue="Application.ProblemMOVIE2XComp" />
         <item itemvalue="Application.ProblemMOVIE2X" />
-        <item itemvalue="Application.HighAccuracyCompProb" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +195,7 @@
       <workItem from="1678111055165" duration="4359000" />
       <workItem from="1678208555202" duration="3223000" />
       <workItem from="1678466338919" duration="198000" />
-      <workItem from="1678466834936" duration="3459000" />
-    </task>
-    <task id="LOCAL-00031" summary="What are test cases1">
-      <created>1677328220764</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1677328220764</updated>
+      <workItem from="1678466834936" duration="4134000" />
     </task>
     <task id="LOCAL-00032" summary="What are test cases1">
       <created>1677328228923</created>
@@ -536,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678472792895</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Problem (Flip cards) - Solve sub-components">
+      <created>1678474434161</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1678474434161</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +559,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module on basic conditional statements" />
     <MESSAGE value="Review syntax usage" />
     <MESSAGE value="Practice problem - Age Limit" />
     <MESSAGE value="Practice problem - Tax in Chefland" />
@@ -580,6 +583,7 @@
     <MESSAGE value="Problem (MOVIE2X) - Generate examples" />
     <MESSAGE value="Problem (MOVIE2X) - Solve the complete problem" />
     <MESSAGE value="Problem (Flip cards) - Generate examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (Flip cards) - Generate examples" />
+    <MESSAGE value="Problem (Flip cards) - Solve sub-components" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (Flip cards) - Solve sub-components" />
   </component>
 </project>
