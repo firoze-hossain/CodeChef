@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (MOVIE2X) - Solve the complete problem" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Flip cards) - Generate examples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +36,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FlipCardsProb">
+  <component name="RunManager" selected="Application.FlipCardsSubComp">
     <configuration name="FlipCardsProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.flipCardsProb.FlipCardsProb" />
       <module name="Codechef" />
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighAccuracyCompProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.HighAccuracyCompProb" />
+    <configuration name="FlipCardsSubComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.flipCardsSubComp.FlipCardsSubComp" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.flipCardsSubComp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighAccuracySubComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracySubComp.HighAccuracySubComp" />
+    <configuration name="HighAccuracyCompProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.HighAccuracyCompProb" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracySubComp.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.highAccuracyCompProb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlipCardsSubComp" />
         <item itemvalue="Application.FlipCardsProb" />
         <item itemvalue="Application.ProblemMOVIE2XComp" />
         <item itemvalue="Application.ProblemMOVIE2X" />
         <item itemvalue="Application.HighAccuracyCompProb" />
-        <item itemvalue="Application.HighAccuracySubComp" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +191,7 @@
       <workItem from="1678111055165" duration="4359000" />
       <workItem from="1678208555202" duration="3223000" />
       <workItem from="1678466338919" duration="198000" />
-      <workItem from="1678466834936" duration="2747000" />
-    </task>
-    <task id="LOCAL-00030" summary="What are test cases up">
-      <created>1677325900072</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1677325900072</updated>
+      <workItem from="1678466834936" duration="3459000" />
     </task>
     <task id="LOCAL-00031" summary="What are test cases1">
       <created>1677328220764</created>
@@ -536,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678471668754</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Problem (Flip cards) - Generate examples">
+      <created>1678472792895</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1678472792895</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +555,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Review problem - 2.2" />
     <MESSAGE value="Module on basic conditional statements" />
     <MESSAGE value="Review syntax usage" />
     <MESSAGE value="Practice problem - Age Limit" />
@@ -580,6 +579,7 @@
     <MESSAGE value="Problem 3 (High Accuracy) - Solve sub-components" />
     <MESSAGE value="Problem (MOVIE2X) - Generate examples" />
     <MESSAGE value="Problem (MOVIE2X) - Solve the complete problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (MOVIE2X) - Solve the complete problem" />
+    <MESSAGE value="Problem (Flip cards) - Generate examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (Flip cards) - Generate examples" />
   </component>
 </project>
