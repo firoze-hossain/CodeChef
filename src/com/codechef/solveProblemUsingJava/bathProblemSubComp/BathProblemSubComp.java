@@ -5,7 +5,7 @@ public class BathProblemSubComp {
         int x = 15;
         int y = 1;
         int buckets_filled = x % y;
-        if (buckets_filled == 0 && buckets_filled != 1) {
+        if ( buckets_filled != 1) {
             buckets_filled = x / y;
             int people = buckets_filled / 2;
             System.out.println(people);
@@ -14,7 +14,7 @@ public class BathProblemSubComp {
         y = 3;
 
         buckets_filled = x % y;
-        if (buckets_filled == 0 && buckets_filled != 1) {
+        if (buckets_filled != 1) {
             buckets_filled = x / y;
             int people = buckets_filled / 2;
             System.out.println(people);
