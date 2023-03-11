@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Bath) - Solve sub-components">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemShoesGen/Problem (Shoes) - Generate examples .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemShoesGen/ProblemShoesGen.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Shoes) - Generate examples">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemShoesSubComp/Problem (Shoes) - Solve sub-components .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemShoesSubComp/ProblemShoesSubComp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ProblemShoesGen">
+  <component name="RunManager" selected="Application.ProblemShoesSubComp">
     <configuration name="BathProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.bathProblem.BathProblem" />
       <module name="Codechef" />
@@ -80,19 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlipCardsComplProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.flipCardsComplProb.FlipCardsComplProb" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.flipCardsComplProb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
@@ -116,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProblemShoesSubComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemShoesSubComp.ProblemShoesSubComp" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemShoesSubComp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProblemShoesSubComp" />
         <item itemvalue="Application.ProblemShoesGen" />
         <item itemvalue="Application.BathProblemComplProb" />
         <item itemvalue="Application.BathProblemSubComp" />
         <item itemvalue="Application.BathProblem" />
-        <item itemvalue="Application.FlipCardsComplProb" />
       </list>
     </recent_temporary>
   </component>
@@ -197,14 +197,7 @@
       <workItem from="1678466338919" duration="198000" />
       <workItem from="1678466834936" duration="4382000" />
       <workItem from="1678502095040" duration="2324000" />
-      <workItem from="1678541695437" duration="551000" />
-    </task>
-    <task id="LOCAL-00035" summary="String mirror - Double strings">
-      <created>1677430607195</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1677430607195</updated>
+      <workItem from="1678541695437" duration="1909000" />
     </task>
     <task id="LOCAL-00036" summary="Debug this code - Why is this code incorrect">
       <created>1677466589305</created>
@@ -542,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678505717921</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Problem (Shoes) - Generate examples">
+      <created>1678542290166</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1678542290167</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +561,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice problem - Alice and Marks" />
     <MESSAGE value="Practice problem - Apples and Oranges" />
     <MESSAGE value="Debug this code - Football Cup" />
     <MESSAGE value="Practice problem - Interior Design" />
@@ -586,6 +585,7 @@
     <MESSAGE value="Problem (Flip cards) - Solve the complete problem" />
     <MESSAGE value="Problem (Bath) - Generate examples" />
     <MESSAGE value="Problem (Bath) - Solve sub-components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (Bath) - Solve sub-components" />
+    <MESSAGE value="Problem (Shoes) - Generate examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (Shoes) - Generate examples" />
   </component>
 </project>
