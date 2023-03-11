@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Flip cards) - Solve sub-components">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/flipCardsComplProb/FlipCardsComplProb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/flipCardsComplProb/Problem (Flip cards) - Solve the complete problem.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Flip cards) - Solve the complete problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,20 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FlipCardsComplProb">
+  <component name="RunManager" selected="Application.BathProblem">
+    <configuration name="BathProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.bathProblem.BathProblem" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.bathProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlipCardsComplProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.flipCardsComplProb.FlipCardsComplProb" />
       <module name="Codechef" />
@@ -90,19 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemMOVIE2X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemMOVIE2X.ProblemMOVIE2X" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemMOVIE2X.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ProblemMOVIE2XComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemMOVIE2XComp.ProblemMOVIE2XComp" />
       <module name="Codechef" />
@@ -116,24 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BathProblem" />
         <item itemvalue="Application.FlipCardsComplProb" />
         <item itemvalue="Application.FlipCardsSubComp" />
         <item itemvalue="Application.FlipCardsProb" />
         <item itemvalue="Application.ProblemMOVIE2XComp" />
-        <item itemvalue="Application.ProblemMOVIE2X" />
       </list>
     </recent_temporary>
   </component>
@@ -195,14 +195,8 @@
       <workItem from="1678111055165" duration="4359000" />
       <workItem from="1678208555202" duration="3223000" />
       <workItem from="1678466338919" duration="198000" />
-      <workItem from="1678466834936" duration="4134000" />
-    </task>
-    <task id="LOCAL-00032" summary="What are test cases1">
-      <created>1677328228923</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1677328228923</updated>
+      <workItem from="1678466834936" duration="4382000" />
+      <workItem from="1678502095040" duration="599000" />
     </task>
     <task id="LOCAL-00033" summary="Test cases with multiple lines of input">
       <created>1677345531464</created>
@@ -540,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678474434161</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Problem (Flip cards) - Solve the complete problem">
+      <created>1678475010141</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1678475010142</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +560,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Review syntax usage" />
     <MESSAGE value="Practice problem - Age Limit" />
     <MESSAGE value="Practice problem - Tax in Chefland" />
     <MESSAGE value="Practice problem - Alice and Marks" />
@@ -584,6 +584,7 @@
     <MESSAGE value="Problem (MOVIE2X) - Solve the complete problem" />
     <MESSAGE value="Problem (Flip cards) - Generate examples" />
     <MESSAGE value="Problem (Flip cards) - Solve sub-components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (Flip cards) - Solve sub-components" />
+    <MESSAGE value="Problem (Flip cards) - Solve the complete problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (Flip cards) - Solve the complete problem" />
   </component>
 </project>
