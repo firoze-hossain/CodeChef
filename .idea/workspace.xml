@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Shoes) - Solve the complete problem">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemMarioGen/Problem (Mario) - Generate examples.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemMarioGen/ProblemMarioGen.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Mario) - Generate examples">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemMarioSubComp/Problem (Mario) - Solve sub-components .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemMarioSubComp/ProblemMarioSubComp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ProblemMarioGen">
-    <configuration name="BathProblemComplProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.bathProblemComplProb.BathProblemComplProb" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.bathProblemComplProb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProblemMarioSubComp">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
@@ -70,6 +57,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemMarioGen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemMarioSubComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemMarioSubComp.ProblemMarioSubComp" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemMarioSubComp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProblemMarioSubComp" />
         <item itemvalue="Application.ProblemMarioGen" />
         <item itemvalue="Application.ProblemShoesComplProb" />
         <item itemvalue="Application.ProblemShoesSubComp" />
         <item itemvalue="Application.ProblemShoesGen" />
-        <item itemvalue="Application.BathProblemComplProb" />
       </list>
     </recent_temporary>
   </component>
@@ -197,14 +197,7 @@
       <workItem from="1678466338919" duration="198000" />
       <workItem from="1678466834936" duration="4382000" />
       <workItem from="1678502095040" duration="2324000" />
-      <workItem from="1678541695437" duration="4943000" />
-    </task>
-    <task id="LOCAL-00038" summary="Practice problem - Tuition fees">
-      <created>1677473613317</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1677473613317</updated>
+      <workItem from="1678541695437" duration="5903000" />
     </task>
     <task id="LOCAL-00039" summary="Practice problem - Fitness">
       <created>1677486266331</created>
@@ -542,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678547319336</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Problem (Mario) - Generate examples">
+      <created>1678555803679</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1678555803679</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +561,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice problem - Interior Design" />
     <MESSAGE value="Debug this code - Chef gives Party" />
     <MESSAGE value="Debug this code - Chef rent car" />
     <MESSAGE value="Debug this code - Advance" />
@@ -586,6 +585,7 @@
     <MESSAGE value="Problem (Shoes) - Generate examples" />
     <MESSAGE value="Problem (Shoes) - Solve sub-components" />
     <MESSAGE value="Problem (Shoes) - Solve the complete problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (Shoes) - Solve the complete problem" />
+    <MESSAGE value="Problem (Mario) - Generate examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem (Mario) - Generate examples" />
   </component>
 </project>
