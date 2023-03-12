@@ -1,0 +1,1 @@
+https://www.codechef.com/learn/BJ00BP15/problems/LBJ10?tab=solution
