@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (Mario) - Solve the complete problem">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemXJumpsGen/ProblemXJumpsGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemXJumpsSubComp/Problem (X Jumps) - Solve sub-components.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/problemXJumpsSubComp/ProblemXJumpsSubComp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +35,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Leads/Insurance Open API/insPayBill" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ProblemXJumpsGen">
+  <component name="RunManager" selected="Application.ProblemXJumpsSubComp">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemShoesComplProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemShoesComplProb.ProblemShoesComplProb" />
+    <configuration name="ProblemXJumpsGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemXJumpsGen.ProblemXJumpsGen" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemShoesComplProb.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemXJumpsGen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemXJumpsGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemXJumpsGen.ProblemXJumpsGen" />
+    <configuration name="ProblemXJumpsSubComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemXJumpsSubComp.ProblemXJumpsSubComp" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemXJumpsGen.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemXJumpsSubComp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProblemXJumpsSubComp" />
         <item itemvalue="Application.ProblemXJumpsGen" />
         <item itemvalue="Application.ProblemMarioComplProb" />
         <item itemvalue="Application.ProblemMarioSubComp" />
         <item itemvalue="Application.ProblemMarioGen" />
-        <item itemvalue="Application.ProblemShoesComplProb" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +198,8 @@
       <workItem from="1678466834936" duration="4382000" />
       <workItem from="1678502095040" duration="2324000" />
       <workItem from="1678541695437" duration="7614000" />
+      <workItem from="1678591524770" duration="593000" />
+      <workItem from="1678614023867" duration="323000" />
     </task>
     <task id="LOCAL-00041" summary="Practice problem - Squats">
       <created>1677554129990</created>
