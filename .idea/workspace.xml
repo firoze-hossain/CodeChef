@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Minimum number of coins">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/buildingRace/BuildingRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/buildingRace/Practice problem - Building Race .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Building Race">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/passOrFail/PassOrFail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/passOrFail/Practice problem - Pass or Fail.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BuildingRace">
+  <component name="RunManager" selected="Application.PassOrFail">
     <configuration name="BuildingRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.buildingRace.BuildingRace" />
       <module name="Codechef" />
@@ -67,19 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeRowColumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.changeRowColumn.ChangeRowColumn" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.changeRowColumn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
@@ -96,6 +82,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.minNumOfCoins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassOrFail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.passOrFail.PassOrFail" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.passOrFail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PassOrFail" />
         <item itemvalue="Application.BuildingRace" />
         <item itemvalue="Application.MinNumOfCoins" />
         <item itemvalue="Application.Weights" />
         <item itemvalue="Application.CandyDistribution" />
-        <item itemvalue="Application.ChangeRowColumn" />
       </list>
     </recent_temporary>
   </component>
@@ -201,14 +200,7 @@
       <workItem from="1678591524770" duration="593000" />
       <workItem from="1678614023867" duration="1378000" />
       <workItem from="1678636464526" duration="933000" />
-      <workItem from="1678695275534" duration="5880000" />
-    </task>
-    <task id="LOCAL-00045" summary="Practice problem - Capacity">
-      <created>1677598652119</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1677598652119</updated>
+      <workItem from="1678695275534" duration="6636000" />
     </task>
     <task id="LOCAL-00046" summary="Practice problem - Capacity">
       <created>1677598662690</created>
@@ -546,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678728252515</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Practice problem - Building Race">
+      <created>1678730256138</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1678730256138</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +564,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Review problem - 4" />
     <MESSAGE value="Review problem - 5" />
     <MESSAGE value="Problem (Make Avg) - Read the problem statement" />
     <MESSAGE value="Problem (Make Avg) - Generate examples" />
@@ -590,6 +588,7 @@
     <MESSAGE value="Practice problem - Candy Distribution" />
     <MESSAGE value="Practice problem - Weights" />
     <MESSAGE value="Practice problem - Minimum number of coins" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Minimum number of coins" />
+    <MESSAGE value="Practice problem - Building Race" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Building Race" />
   </component>
 </project>
