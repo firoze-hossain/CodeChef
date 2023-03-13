@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Problem (X Jumps) - Solve sub-components">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/candyDistribution/CandyDistribution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/candyDistribution/Practice problem - Candy Distribution .md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Candy Distribution">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/weights/Practice problem - Weights .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/weights/Weights.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CandyDistribution">
+  <component name="RunManager" selected="Application.Weights">
     <configuration name="CandyDistribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.candyDistribution.CandyDistribution" />
       <module name="Codechef" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemXJumpsGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemXJumpsGen.ProblemXJumpsGen" />
+    <configuration name="ProblemXJumpsSubComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemXJumpsSubComp.ProblemXJumpsSubComp" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemXJumpsGen.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemXJumpsSubComp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemXJumpsSubComp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.problemXJumpsSubComp.ProblemXJumpsSubComp" />
+    <configuration name="Weights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.weights.Weights" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.problemXJumpsSubComp.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.weights.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Weights" />
         <item itemvalue="Application.CandyDistribution" />
         <item itemvalue="Application.ChangeRowColumn" />
         <item itemvalue="Application.ProblemXJumpsComplProb" />
         <item itemvalue="Application.ProblemXJumpsSubComp" />
-        <item itemvalue="Application.ProblemXJumpsGen" />
       </list>
     </recent_temporary>
   </component>
@@ -201,14 +201,7 @@
       <workItem from="1678591524770" duration="593000" />
       <workItem from="1678614023867" duration="1378000" />
       <workItem from="1678636464526" duration="933000" />
-      <workItem from="1678695275534" duration="724000" />
-    </task>
-    <task id="LOCAL-00042" summary="Debug this code - Determine the Score">
-      <created>1677569803160</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1677569803160</updated>
+      <workItem from="1678695275534" duration="2796000" />
     </task>
     <task id="LOCAL-00043" summary="Debug this code - Population">
       <created>1677577378028</created>
@@ -546,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678614384600</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Practice problem - Candy Distribution">
+      <created>1678698212869</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1678698212870</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +565,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Review problem - 1" />
     <MESSAGE value="Review problem - 2" />
     <MESSAGE value="Review problem - 3" />
     <MESSAGE value="Review problem - 4" />
@@ -590,6 +589,7 @@
     <MESSAGE value="Problem (Mario) - Solve sub-components" />
     <MESSAGE value="Problem (Mario) - Solve the complete problem" />
     <MESSAGE value="Problem (X Jumps) - Solve sub-components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem (X Jumps) - Solve sub-components" />
+    <MESSAGE value="Practice problem - Candy Distribution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Candy Distribution" />
   </component>
 </project>
