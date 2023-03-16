@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Lunchtime">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/applesAndOranges/Apples and Oranges.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/applesAndOranges/ApplesAndOranges.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Apples and Oranges">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/goodInvestmentOrNot/Good Investment or Not.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/goodInvestmentOrNot/GoodInvestmentOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ApplesAndOranges">
+  <component name="RunManager" selected="Application.GoodInvestmentOrNot">
     <configuration name="ApplesAndOranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.practice.applesAndOranges.ApplesAndOranges" />
       <module name="Codechef" />
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lunchtime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.lunchtime.Lunchtime" />
+    <configuration name="GoodInvestmentOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.goodInvestmentOrNot.GoodInvestmentOrNot" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.lunchtime.*" />
+          <option name="PATTERN" value="com.codechef.practice.goodInvestmentOrNot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MATH1Enrolment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.mATH1Enrolment.MATH1Enrolment" />
+    <configuration name="Lunchtime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.lunchtime.Lunchtime" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.mATH1Enrolment.*" />
+          <option name="PATTERN" value="com.codechef.practice.lunchtime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GoodInvestmentOrNot" />
         <item itemvalue="Application.ApplesAndOranges" />
         <item itemvalue="Application.Lunchtime" />
         <item itemvalue="Application.WaterRequirement" />
         <item itemvalue="Application.ChefAndChapters" />
-        <item itemvalue="Application.MATH1Enrolment" />
       </list>
     </recent_temporary>
   </component>
@@ -203,14 +204,7 @@
       <workItem from="1678636464526" duration="933000" />
       <workItem from="1678695275534" duration="7273000" />
       <workItem from="1678967273882" duration="610000" />
-      <workItem from="1678985526927" duration="6198000" />
-    </task>
-    <task id="LOCAL-00055" summary="Practice problem - Age Limit">
-      <created>1677777691034</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1677777691034</updated>
+      <workItem from="1678985526927" duration="7223000" />
     </task>
     <task id="LOCAL-00056" summary="Practice problem - Tax in Chefland">
       <created>1677778321155</created>
@@ -548,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678991086317</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Apples and Oranges">
+      <created>1678991871800</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1678991871800</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +568,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem (Flip cards) - Generate examples" />
     <MESSAGE value="Problem (Flip cards) - Solve sub-components" />
     <MESSAGE value="Problem (Flip cards) - Solve the complete problem" />
     <MESSAGE value="Problem (Bath) - Generate examples" />
@@ -592,6 +592,7 @@
     <MESSAGE value="Chef and Chapters" />
     <MESSAGE value="Water Requirement" />
     <MESSAGE value="Lunchtime" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lunchtime" />
+    <MESSAGE value="Apples and Oranges" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apples and Oranges" />
   </component>
 </project>
