@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice problem - Pass or Fail">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/passesForFair/Passes for Fair .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/passesForFair/PassesForFair.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Passes for Fair">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/readPages/ReadPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/readPages/ReadPages.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PassesForFair">
+  <component name="RunManager" selected="Application.ReadPages">
     <configuration name="BuildingRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.buildingRace.BuildingRace" />
       <module name="Codechef" />
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Weights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.weights.Weights" />
+    <configuration name="ReadPages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.readPages.ReadPages" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.weights.*" />
+          <option name="PATTERN" value="com.codechef.practice.readPages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadPages" />
         <item itemvalue="Application.PassesForFair" />
         <item itemvalue="Application.PassOrFail" />
         <item itemvalue="Application.BuildingRace" />
         <item itemvalue="Application.MinNumOfCoins" />
-        <item itemvalue="Application.Weights" />
       </list>
     </recent_temporary>
   </component>
@@ -203,14 +203,7 @@
       <workItem from="1678636464526" duration="933000" />
       <workItem from="1678695275534" duration="7273000" />
       <workItem from="1678967273882" duration="610000" />
-      <workItem from="1678985526927" duration="929000" />
-    </task>
-    <task id="LOCAL-00047" summary="Max minus Min">
-      <created>1677655215421</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1677655215421</updated>
+      <workItem from="1678985526927" duration="1867000" />
     </task>
     <task id="LOCAL-00048" summary="Review problem - 1">
       <created>1677662533779</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678733783556</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Passes for Fair">
+      <created>1678986545006</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1678986545007</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +567,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem (Make Avg) - Read the problem statement" />
     <MESSAGE value="Problem (Make Avg) - Generate examples" />
     <MESSAGE value="Problem (Make Avg) - Solve sub-components" />
     <MESSAGE value="Problem(Farm animals) - Generate examples" />
@@ -592,6 +591,7 @@
     <MESSAGE value="Practice problem - Minimum number of coins" />
     <MESSAGE value="Practice problem - Building Race" />
     <MESSAGE value="Practice problem - Pass or Fail" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice problem - Pass or Fail" />
+    <MESSAGE value="Passes for Fair" />
+    <option name="LAST_COMMIT_MESSAGE" value="Passes for Fair" />
   </component>
 </project>
