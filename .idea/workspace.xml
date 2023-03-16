@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Chef and Chapters">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/waterRequirement/Water Requirement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/waterRequirement/WaterRequirement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Water Requirement">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/lunchtime/Lunchtime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/lunchtime/Lunchtime.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.WaterRequirement">
+  <component name="RunManager" selected="Application.Lunchtime">
     <configuration name="ChefAndChapters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.practice.chefAndChapters.ChefAndChapters" />
       <module name="Codechef" />
@@ -55,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.fever.Fever" />
+    <configuration name="Lunchtime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.lunchtime.Lunchtime" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.fever.*" />
+          <option name="PATTERN" value="com.codechef.practice.lunchtime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lunchtime" />
         <item itemvalue="Application.WaterRequirement" />
         <item itemvalue="Application.ChefAndChapters" />
         <item itemvalue="Application.MATH1Enrolment" />
         <item itemvalue="Application.SleepDeprivation" />
-        <item itemvalue="Application.Fever" />
       </list>
     </recent_temporary>
   </component>
@@ -204,14 +203,7 @@
       <workItem from="1678636464526" duration="933000" />
       <workItem from="1678695275534" duration="7273000" />
       <workItem from="1678967273882" duration="610000" />
-      <workItem from="1678985526927" duration="5053000" />
-    </task>
-    <task id="LOCAL-00053" summary="Module on basic conditional statements">
-      <created>1677776011814</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1677776011815</updated>
+      <workItem from="1678985526927" duration="5482000" />
     </task>
     <task id="LOCAL-00054" summary="Review syntax usage">
       <created>1677776611989</created>
@@ -549,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678989980822</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Water Requirement">
+      <created>1678990651521</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1678990651521</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +567,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem (MOVIE2X) - Generate examples" />
     <MESSAGE value="Problem (MOVIE2X) - Solve the complete problem" />
     <MESSAGE value="Problem (Flip cards) - Generate examples" />
     <MESSAGE value="Problem (Flip cards) - Solve sub-components" />
@@ -593,6 +591,7 @@
     <MESSAGE value="Sleep deprivation" />
     <MESSAGE value="MATH1 Enrolment" />
     <MESSAGE value="Chef and Chapters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chef and Chapters" />
+    <MESSAGE value="Water Requirement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Water Requirement" />
   </component>
 </project>
