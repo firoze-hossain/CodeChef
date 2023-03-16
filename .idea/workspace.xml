@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="MATH1 Enrolment" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Chef and Chapters">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/waterRequirement/Water Requirement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/waterRequirement/WaterRequirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +41,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ChefAndChapters">
+  <component name="RunManager" selected="Application.WaterRequirement">
     <configuration name="ChefAndChapters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.practice.chefAndChapters.ChefAndChapters" />
       <module name="Codechef" />
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadPages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.readPages.ReadPages" />
+    <configuration name="SleepDeprivation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.sleepDeprivation.SleepDeprivation" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.readPages.*" />
+          <option name="PATTERN" value="com.codechef.practice.sleepDeprivation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SleepDeprivation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.sleepDeprivation.SleepDeprivation" />
+    <configuration name="WaterRequirement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.waterRequirement.WaterRequirement" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.sleepDeprivation.*" />
+          <option name="PATTERN" value="com.codechef.practice.waterRequirement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WaterRequirement" />
         <item itemvalue="Application.ChefAndChapters" />
         <item itemvalue="Application.MATH1Enrolment" />
         <item itemvalue="Application.SleepDeprivation" />
         <item itemvalue="Application.Fever" />
-        <item itemvalue="Application.ReadPages" />
       </list>
     </recent_temporary>
   </component>
@@ -200,14 +204,7 @@
       <workItem from="1678636464526" duration="933000" />
       <workItem from="1678695275534" duration="7273000" />
       <workItem from="1678967273882" duration="610000" />
-      <workItem from="1678985526927" duration="4294000" />
-    </task>
-    <task id="LOCAL-00052" summary="Review problem - 3">
-      <created>1677680421563</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1677680421564</updated>
+      <workItem from="1678985526927" duration="5053000" />
     </task>
     <task id="LOCAL-00053" summary="Module on basic conditional statements">
       <created>1677776011814</created>
@@ -545,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678989189053</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Chef and Chapters">
+      <created>1678989980822</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1678989980822</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +568,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem 3 (High Accuracy) - Solve sub-components" />
     <MESSAGE value="Problem (MOVIE2X) - Generate examples" />
     <MESSAGE value="Problem (MOVIE2X) - Solve the complete problem" />
     <MESSAGE value="Problem (Flip cards) - Generate examples" />
@@ -589,6 +592,7 @@
     <MESSAGE value="Fever" />
     <MESSAGE value="Sleep deprivation" />
     <MESSAGE value="MATH1 Enrolment" />
-    <option name="LAST_COMMIT_MESSAGE" value="MATH1 Enrolment" />
+    <MESSAGE value="Chef and Chapters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chef and Chapters" />
   </component>
 </project>
