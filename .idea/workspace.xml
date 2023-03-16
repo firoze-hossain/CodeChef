@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Apples and Oranges">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/goodInvestmentOrNot/Good Investment or Not.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/goodInvestmentOrNot/GoodInvestmentOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Good Investment or Not">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/finalPopulation/Final Population.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/finalPopulation/FinalPopulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.GoodInvestmentOrNot">
+  <component name="RunManager" selected="Application.FinalPopulation">
     <configuration name="ApplesAndOranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.practice.applesAndOranges.ApplesAndOranges" />
       <module name="Codechef" />
@@ -55,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChefAndChapters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.chefAndChapters.ChefAndChapters" />
+    <configuration name="FinalPopulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.finalPopulation.FinalPopulation" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.chefAndChapters.*" />
+          <option name="PATTERN" value="com.codechef.practice.finalPopulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalPopulation" />
         <item itemvalue="Application.GoodInvestmentOrNot" />
         <item itemvalue="Application.ApplesAndOranges" />
         <item itemvalue="Application.Lunchtime" />
         <item itemvalue="Application.WaterRequirement" />
-        <item itemvalue="Application.ChefAndChapters" />
       </list>
     </recent_temporary>
   </component>
@@ -204,14 +203,7 @@
       <workItem from="1678636464526" duration="933000" />
       <workItem from="1678695275534" duration="7273000" />
       <workItem from="1678967273882" duration="610000" />
-      <workItem from="1678985526927" duration="7223000" />
-    </task>
-    <task id="LOCAL-00056" summary="Practice problem - Tax in Chefland">
-      <created>1677778321155</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1677778321156</updated>
+      <workItem from="1678985526927" duration="7617000" />
     </task>
     <task id="LOCAL-00057" summary="Practice problem - Alice and Marks">
       <created>1677779085682</created>
@@ -549,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678991871800</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Good Investment or Not">
+      <created>1678992845232</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1678992845232</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +567,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem (Flip cards) - Solve sub-components" />
     <MESSAGE value="Problem (Flip cards) - Solve the complete problem" />
     <MESSAGE value="Problem (Bath) - Generate examples" />
     <MESSAGE value="Problem (Bath) - Solve sub-components" />
@@ -593,6 +591,7 @@
     <MESSAGE value="Water Requirement" />
     <MESSAGE value="Lunchtime" />
     <MESSAGE value="Apples and Oranges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apples and Oranges" />
+    <MESSAGE value="Good Investment or Not" />
+    <option name="LAST_COMMIT_MESSAGE" value="Good Investment or Not" />
   </component>
 </project>
