@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Read Pages">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/fever/Fever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/fever/Fever.md" afterDir="false" />
-    </list>
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Fever" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,20 +36,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Fever">
-    <configuration name="BuildingRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.buildingRace.BuildingRace" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.buildingRace.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SleepDeprivation">
     <configuration name="Fever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.practice.fever.Fever" />
       <module name="Codechef" />
@@ -115,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SleepDeprivation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.sleepDeprivation.SleepDeprivation" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.practice.sleepDeprivation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -128,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SleepDeprivation" />
         <item itemvalue="Application.Fever" />
         <item itemvalue="Application.ReadPages" />
         <item itemvalue="Application.PassesForFair" />
         <item itemvalue="Application.PassOrFail" />
-        <item itemvalue="Application.BuildingRace" />
       </list>
     </recent_temporary>
   </component>
@@ -202,14 +199,7 @@
       <workItem from="1678636464526" duration="933000" />
       <workItem from="1678695275534" duration="7273000" />
       <workItem from="1678967273882" duration="610000" />
-      <workItem from="1678985526927" duration="2382000" />
-    </task>
-    <task id="LOCAL-00049" summary="Review problem - 2">
-      <created>1677678722667</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1677678722667</updated>
+      <workItem from="1678985526927" duration="2863000" />
     </task>
     <task id="LOCAL-00050" summary="Review problem - 2.2">
       <created>1677678741236</created>
@@ -547,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678987469827</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Fever">
+      <created>1678987975151</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1678987975151</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +563,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem (Make Avg) - Solve sub-components" />
     <MESSAGE value="Problem(Farm animals) - Generate examples" />
     <MESSAGE value="Problem 3 (High Accuracy) - Generate examples" />
     <MESSAGE value="Problem 3 (High Accuracy) - Solve sub-components" />
@@ -591,6 +587,7 @@
     <MESSAGE value="Practice problem - Pass or Fail" />
     <MESSAGE value="Passes for Fair" />
     <MESSAGE value="Read Pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read Pages" />
+    <MESSAGE value="Fever" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fever" />
   </component>
 </project>
