@@ -40,13 +40,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ChefAndInstantNoodles">
-    <configuration name="BrokenPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.brokenPhone.BrokenPhone" />
+  <component name="RunManager" selected="Application.CodechefAirlines">
+    <configuration name="ChefAndInstantNoodles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.chefAndInstantNoodles.ChefAndInstantNoodles" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.brokenPhone.*" />
+          <option name="PATTERN" value="com.codechef.practice.chefAndInstantNoodles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChefAndInstantNoodles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.chefAndInstantNoodles.ChefAndInstantNoodles" />
+    <configuration name="CodechefAirlines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.codechefAirlines.CodechefAirlines" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.chefAndInstantNoodles.*" />
+          <option name="PATTERN" value="com.codechef.practice.codechefAirlines.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,24 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodechefAirlines" />
         <item itemvalue="Application.ChefAndInstantNoodles" />
         <item itemvalue="Application.MonthlyBudget" />
         <item itemvalue="Application.PerfectTrio" />
         <item itemvalue="Application.TyreProblem" />
-        <item itemvalue="Application.BrokenPhone" />
       </list>
     </recent_temporary>
   </component>
