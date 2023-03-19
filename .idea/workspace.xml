@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Chef and Masks">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/brokenPhone/Broken Phone .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/brokenPhone/BrokenPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Tyre problem">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/perfectTrio/PerfectTrio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +39,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TyreProblem">
+  <component name="RunManager" selected="Application.PerfectTrio">
     <configuration name="BrokenPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.practice.brokenPhone.BrokenPhone" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.practice.brokenPhone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CandyStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.candyStore.CandyStore" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.practice.candyStore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PerfectTrio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.perfectTrio.PerfectTrio" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.practice.perfectTrio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TyreProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.practice.tyreProblem.TyreProblem" />
       <module name="Codechef" />
@@ -130,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectTrio" />
         <item itemvalue="Application.TyreProblem" />
         <item itemvalue="Application.BrokenPhone" />
         <item itemvalue="Application.MaximumSubmissions" />
         <item itemvalue="Application.ChefAndMasks" />
-        <item itemvalue="Application.CandyStore" />
       </list>
     </recent_temporary>
   </component>
@@ -209,21 +207,7 @@
       <workItem from="1679113062034" duration="596000" />
       <workItem from="1679143838343" duration="1613000" />
       <workItem from="1679155518196" duration="1340000" />
-      <workItem from="1679194452733" duration="341000" />
-    </task>
-    <task id="LOCAL-00061" summary="Debug this code - Chef gives Party">
-      <created>1677784101681</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1677784101682</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Debug this code - Chef rent car">
-      <created>1677785472174</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1677785472174</updated>
+      <workItem from="1679194452733" duration="746000" />
     </task>
     <task id="LOCAL-00063" summary="Debug this code - Advance">
       <created>1677822470417</created>
@@ -554,7 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679158740966</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Broken Phone">
+      <created>1679194823024</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1679194823024</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Tyre problem">
+      <created>1679195079190</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1679195079190</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,8 +571,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem (Shoes) - Solve sub-components" />
-    <MESSAGE value="Problem (Shoes) - Solve the complete problem" />
     <MESSAGE value="Problem (Mario) - Generate examples" />
     <MESSAGE value="Problem (Mario) - Solve sub-components" />
     <MESSAGE value="Problem (Mario) - Solve the complete problem" />
@@ -598,6 +594,8 @@
     <MESSAGE value="Alice and Marks" />
     <MESSAGE value="Ezio and Guards" />
     <MESSAGE value="Chef and Masks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chef and Masks" />
+    <MESSAGE value="Broken Phone" />
+    <MESSAGE value="Tyre problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tyre problem" />
   </component>
 </project>
