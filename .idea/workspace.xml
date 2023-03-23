@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Miami GP">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/countPosNonZero/Count positive and non-zero elements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/countPosNonZero/CountPosNonZero.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Count positive and non-zero elements">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/largeAndSmallElem/LargeAndSmallElem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/largeAndSmallElem/Largest and smallest element of an array.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CountPosNonZero">
+  <component name="RunManager" selected="Application.LargeAndSmallElem">
     <configuration name="ArrayConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.arrayConstruction.ArrayConstruction" />
       <module name="Codechef" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOperationIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.arrayOp.ArrayOperationIntro" />
+    <configuration name="CountPosNonZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.countPosNonZero.CountPosNonZero" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.arrayOp.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.countPosNonZero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountPosNonZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.countPosNonZero.CountPosNonZero" />
+    <configuration name="LargeAndSmallElem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.largeAndSmallElem.LargeAndSmallElem" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.countPosNonZero.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.largeAndSmallElem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,26 +125,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargeAndSmallElem" />
         <item itemvalue="Application.CountPosNonZero" />
         <item itemvalue="Application.MiamiGP" />
         <item itemvalue="Application.ArrayConstruction" />
         <item itemvalue="Application.ArrayOp1" />
-        <item itemvalue="Application.ArrayOperationIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -224,14 +222,8 @@
       <workItem from="1679369036359" duration="2777000" />
       <workItem from="1679395391395" duration="363000" />
       <workItem from="1679456141339" duration="7540000" />
-      <workItem from="1679582264407" duration="3121000" />
-    </task>
-    <task id="LOCAL-00073" summary="Problem(Farm animals) - Generate examples">
-      <created>1678121587756</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1678121587756</updated>
+      <workItem from="1679582264407" duration="3716000" />
+      <workItem from="1679611221111" duration="2560000" />
     </task>
     <task id="LOCAL-00074" summary="Problem 3 (High Accuracy) - Generate examples">
       <created>1678210038463</created>
@@ -569,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679584278452</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Count positive and non-zero elements">
+      <created>1679589035046</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1679589035046</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +587,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Read Pages" />
     <MESSAGE value="Fever" />
     <MESSAGE value="Sleep deprivation" />
     <MESSAGE value="MATH1 Enrolment" />
@@ -613,6 +611,7 @@
     <MESSAGE value="Introduction to the module on Array Operations" />
     <MESSAGE value="Introduction to the module on Array Operations 1" />
     <MESSAGE value="Miami GP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Miami GP" />
+    <MESSAGE value="Count positive and non-zero elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count positive and non-zero elements" />
   </component>
 </project>
