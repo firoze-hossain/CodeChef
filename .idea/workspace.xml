@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Debug this code - Non-Negative Product">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/arrayToLeft/ArrayToLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/arrayToLeft/Move the smallest element of the array to the left.md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Move the smallest element of the array to the left">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/secondMaxThreeNumbers/SecondMaxThreeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,26 +48,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ArrayToLeft">
+  <component name="RunManager" selected="Application.SecondMaxThreeNumbers">
     <configuration name="ArrayToLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.arrayToLeft.ArrayToLeft" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.arrayToLeft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountPosNonZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.countPosNonZero.CountPosNonZero" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.countPosNonZero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,26 +111,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="SecondMaxThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.secondMaxThreeNumbers.SecondMaxThreeNumbers" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.practice.secondMaxThreeNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondMaxThreeNumbers" />
         <item itemvalue="Application.ArrayToLeft" />
         <item itemvalue="Application.NonNegativeProduct" />
         <item itemvalue="Application.PenaltyShots" />
         <item itemvalue="Application.LargeAndSmallElem" />
-        <item itemvalue="Application.CountPosNonZero" />
       </list>
     </recent_temporary>
   </component>
@@ -230,14 +227,8 @@
       <workItem from="1679676686326" duration="2260000" />
       <workItem from="1679696479251" duration="1658000" />
       <workItem from="1679719096434" duration="1833000" />
-      <workItem from="1679762391542" duration="1563000" />
-    </task>
-    <task id="LOCAL-00077" summary="Problem (MOVIE2X) - Generate examples">
-      <created>1678470439851</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1678470439852</updated>
+      <workItem from="1679762391542" duration="2306000" />
+      <workItem from="1680358553512" duration="1242000" />
     </task>
     <task id="LOCAL-00078" summary="Problem (MOVIE2X) - Solve the complete problem">
       <created>1678471668754</created>
@@ -575,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679698134989</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Move the smallest element of the array to the left">
+      <created>1679764107734</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1679764107736</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +592,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chef and Chapters" />
     <MESSAGE value="Water Requirement" />
     <MESSAGE value="Lunchtime" />
     <MESSAGE value="Apples and Oranges" />
@@ -619,6 +616,7 @@
     <MESSAGE value="Largest and smallest element of an array" />
     <MESSAGE value="Practice problem - Penalty Shots" />
     <MESSAGE value="Debug this code - Non-Negative Product" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debug this code - Non-Negative Product" />
+    <MESSAGE value="Move the smallest element of the array to the left" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move the smallest element of the array to the left" />
   </component>
 </project>
