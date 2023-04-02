@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Move the smallest element of the array to the left">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/secondMaxThreeNumbers/SecondMaxThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/profitIncrement/Profit Increment .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/profitIncrement/ProfitIncrement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,26 +49,13 @@
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SecondMaxThreeNumbers">
+  <component name="RunManager" selected="Application.ProfitIncrement">
     <configuration name="ArrayToLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.arrayToLeft.ArrayToLeft" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.arrayToLeft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LargeAndSmallElem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.largeAndSmallElem.LargeAndSmallElem" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.largeAndSmallElem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenaltyShots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.penaltyShots.PenaltyShots" />
+    <configuration name="PerfectTrio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.perfectTrio.PerfectTrio" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.penaltyShots.*" />
+          <option name="PATTERN" value="com.codechef.practice.perfectTrio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfitIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.profitIncrement.ProfitIncrement" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.practice.profitIncrement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProfitIncrement" />
+        <item itemvalue="Application.PerfectTrio" />
         <item itemvalue="Application.SecondMaxThreeNumbers" />
         <item itemvalue="Application.ArrayToLeft" />
         <item itemvalue="Application.NonNegativeProduct" />
-        <item itemvalue="Application.PenaltyShots" />
-        <item itemvalue="Application.LargeAndSmallElem" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +230,8 @@
       <workItem from="1679719096434" duration="1833000" />
       <workItem from="1679762391542" duration="2306000" />
       <workItem from="1680358553512" duration="1242000" />
+      <workItem from="1680370045416" duration="800000" />
+      <workItem from="1680438930966" duration="1214000" />
     </task>
     <task id="LOCAL-00078" summary="Problem (MOVIE2X) - Solve the complete problem">
       <created>1678471668754</created>
