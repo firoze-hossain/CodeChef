@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Move the smallest element of the array to the left">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/profitIncrement/Profit Increment .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/profitIncrement/ProfitIncrement.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Profit Increment">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/practicePerfect/Practice makes us perfect .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/practicePerfect/PracticePerfect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +48,9 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.ProfitIncrement">
+  <component name="RunManager" selected="Application.PracticePerfect">
     <configuration name="ArrayToLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.arrayToLeft.ArrayToLeft" />
       <module name="Codechef" />
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonNegativeProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.nonNegativeProduct.NonNegativeProduct" />
+    <configuration name="PerfectTrio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.perfectTrio.PerfectTrio" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.nonNegativeProduct.*" />
+          <option name="PATTERN" value="com.codechef.practice.perfectTrio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectTrio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.perfectTrio.PerfectTrio" />
+    <configuration name="PracticePerfect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.practicePerfect.PracticePerfect" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.perfectTrio.*" />
+          <option name="PATTERN" value="com.codechef.practice.practicePerfect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,24 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticePerfect" />
         <item itemvalue="Application.ProfitIncrement" />
         <item itemvalue="Application.PerfectTrio" />
         <item itemvalue="Application.SecondMaxThreeNumbers" />
         <item itemvalue="Application.ArrayToLeft" />
-        <item itemvalue="Application.NonNegativeProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -231,14 +234,8 @@
       <workItem from="1679762391542" duration="2306000" />
       <workItem from="1680358553512" duration="1242000" />
       <workItem from="1680370045416" duration="800000" />
-      <workItem from="1680438930966" duration="1214000" />
-    </task>
-    <task id="LOCAL-00078" summary="Problem (MOVIE2X) - Solve the complete problem">
-      <created>1678471668754</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1678471668754</updated>
+      <workItem from="1680438930966" duration="3214000" />
+      <workItem from="1680527988044" duration="2045000" />
     </task>
     <task id="LOCAL-00079" summary="Problem (Flip cards) - Generate examples">
       <created>1678472792895</created>
@@ -576,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679764107736</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Profit Increment">
+      <created>1680447845871</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1680447845872</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +599,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Water Requirement" />
     <MESSAGE value="Lunchtime" />
     <MESSAGE value="Apples and Oranges" />
     <MESSAGE value="Good Investment or Not" />
@@ -620,6 +623,7 @@
     <MESSAGE value="Practice problem - Penalty Shots" />
     <MESSAGE value="Debug this code - Non-Negative Product" />
     <MESSAGE value="Move the smallest element of the array to the left" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move the smallest element of the array to the left" />
+    <MESSAGE value="Profit Increment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Profit Increment" />
   </component>
 </project>
