@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice makes us perfect">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/numberMirror/Number Mirror.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/numberMirror/NumberMirror.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Number Mirror">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/enormousInputTest/Enormous Input Test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/enormousInputTest/EnormousInputTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.NumberMirror">
+  <component name="RunManager" selected="Application.EnormousInputTest">
+    <configuration name="EnormousInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.enormousInputTest.EnormousInputTest" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.enormousInputTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
@@ -113,39 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondMaxThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.secondMaxThreeNumbers.SecondMaxThreeNumbers" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.practice.secondMaxThreeNumbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnormousInputTest" />
         <item itemvalue="Application.NumberMirror" />
         <item itemvalue="Application.PracticePerfect" />
         <item itemvalue="Application.ProfitIncrement" />
         <item itemvalue="Application.PerfectTrio" />
-        <item itemvalue="Application.SecondMaxThreeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -235,14 +222,7 @@
       <workItem from="1680358553512" duration="1242000" />
       <workItem from="1680370045416" duration="800000" />
       <workItem from="1680438930966" duration="3214000" />
-      <workItem from="1680527988044" duration="3067000" />
-    </task>
-    <task id="LOCAL-00080" summary="Problem (Flip cards) - Solve sub-components">
-      <created>1678474434161</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1678474434161</updated>
+      <workItem from="1680527988044" duration="5493000" />
     </task>
     <task id="LOCAL-00081" summary="Problem (Flip cards) - Solve the complete problem">
       <created>1678475010141</created>
@@ -580,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680530635037</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Number Mirror">
+      <created>1680532155445</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1680532155445</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +586,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Apples and Oranges" />
     <MESSAGE value="Good Investment or Not" />
     <MESSAGE value="Final Population" />
     <MESSAGE value="Alice and Marks" />
@@ -624,6 +610,7 @@
     <MESSAGE value="Move the smallest element of the array to the left" />
     <MESSAGE value="Profit Increment" />
     <MESSAGE value="Practice makes us perfect" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice makes us perfect" />
+    <MESSAGE value="Number Mirror" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number Mirror" />
   </component>
 </project>
