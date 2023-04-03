@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Number Mirror">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/findRemainder/Find Remainder.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/findRemainder/FindRemainder.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Find Remainder">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/sumOfDigits/Sum of Digits.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/sumOfDigits/SumOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.FindRemainder">
+  <component name="RunManager" selected="Application.SumOfDigits">
     <configuration name="EnormousInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.enormousInputTest.EnormousInputTest" />
       <module name="Codechef" />
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfitIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.profitIncrement.ProfitIncrement" />
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.sumOfDigits.SumOfDigits" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.profitIncrement.*" />
+          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.sumOfDigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.FindRemainder" />
         <item itemvalue="Application.EnormousInputTest" />
         <item itemvalue="Application.NumberMirror" />
         <item itemvalue="Application.PracticePerfect" />
-        <item itemvalue="Application.ProfitIncrement" />
       </list>
     </recent_temporary>
   </component>
@@ -234,14 +234,7 @@
       <workItem from="1680370045416" duration="800000" />
       <workItem from="1680438930966" duration="3214000" />
       <workItem from="1680527988044" duration="5493000" />
-      <workItem from="1680538814480" duration="301000" />
-    </task>
-    <task id="LOCAL-00081" summary="Problem (Flip cards) - Solve the complete problem">
-      <created>1678475010141</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1678475010142</updated>
+      <workItem from="1680538814480" duration="1298000" />
     </task>
     <task id="LOCAL-00082" summary="Problem (Bath) - Generate examples">
       <created>1678503148965</created>
@@ -579,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680532155445</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Find Remainder">
+      <created>1680539137040</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1680539137041</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +598,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Good Investment or Not" />
     <MESSAGE value="Final Population" />
     <MESSAGE value="Alice and Marks" />
     <MESSAGE value="Ezio and Guards" />
@@ -623,6 +622,7 @@
     <MESSAGE value="Profit Increment" />
     <MESSAGE value="Practice makes us perfect" />
     <MESSAGE value="Number Mirror" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number Mirror" />
+    <MESSAGE value="Find Remainder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find Remainder" />
   </component>
 </project>
