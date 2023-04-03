@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Profit Increment">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/practicePerfect/Practice makes us perfect .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/practicePerfect/PracticePerfect.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Practice makes us perfect">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/numberMirror/Number Mirror.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/numberMirror/NumberMirror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,26 +50,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.PracticePerfect">
-    <configuration name="ArrayToLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.arrayToLeft.ArrayToLeft" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.arrayToLeft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberMirror">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Main" />
       <module name="Codechef" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.numberMirror.NumberMirror" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.numberMirror.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberMirror" />
         <item itemvalue="Application.PracticePerfect" />
         <item itemvalue="Application.ProfitIncrement" />
         <item itemvalue="Application.PerfectTrio" />
         <item itemvalue="Application.SecondMaxThreeNumbers" />
-        <item itemvalue="Application.ArrayToLeft" />
       </list>
     </recent_temporary>
   </component>
@@ -235,14 +235,7 @@
       <workItem from="1680358553512" duration="1242000" />
       <workItem from="1680370045416" duration="800000" />
       <workItem from="1680438930966" duration="3214000" />
-      <workItem from="1680527988044" duration="2045000" />
-    </task>
-    <task id="LOCAL-00079" summary="Problem (Flip cards) - Generate examples">
-      <created>1678472792895</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1678472792895</updated>
+      <workItem from="1680527988044" duration="3067000" />
     </task>
     <task id="LOCAL-00080" summary="Problem (Flip cards) - Solve sub-components">
       <created>1678474434161</created>
@@ -580,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680447845872</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Practice makes us perfect">
+      <created>1680530635036</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1680530635037</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +599,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lunchtime" />
     <MESSAGE value="Apples and Oranges" />
     <MESSAGE value="Good Investment or Not" />
     <MESSAGE value="Final Population" />
@@ -624,6 +623,7 @@
     <MESSAGE value="Debug this code - Non-Negative Product" />
     <MESSAGE value="Move the smallest element of the array to the left" />
     <MESSAGE value="Profit Increment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Profit Increment" />
+    <MESSAGE value="Practice makes us perfect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice makes us perfect" />
   </component>
 </project>
