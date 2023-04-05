@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Sum of Digits">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/addTwoNumbers/Add Two Numbers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/advancedDSAPaths/basicProgramming/addTwoNumbers/AddTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +42,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbers">
+  <component name="RunManager" selected="Application.TheMangoTruck">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.addTwoNumbers.AddTwoNumbers" />
       <module name="Codechef" />
@@ -100,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.numberMirror.NumberMirror" />
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.sumOfDigits.SumOfDigits" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.numberMirror.*" />
+          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.sumOfDigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.sumOfDigits.SumOfDigits" />
+    <configuration name="TheMangoTruck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.theMangoTruck.TheMangoTruck" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.sumOfDigits.*" />
+          <option name="PATTERN" value="com.codechef.practice.theMangoTruck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheMangoTruck" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.FindRemainder" />
         <item itemvalue="Application.EnormousInputTest" />
-        <item itemvalue="Application.NumberMirror" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +233,7 @@
       <workItem from="1680438930966" duration="3214000" />
       <workItem from="1680527988044" duration="5493000" />
       <workItem from="1680538814480" duration="2212000" />
+      <workItem from="1680667013775" duration="625000" />
     </task>
     <task id="LOCAL-00083" summary="Problem (Bath) - Solve sub-components">
       <created>1678505717921</created>
