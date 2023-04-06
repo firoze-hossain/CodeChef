@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Sum of Digits">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/rightmostIndexHighElem/Rightmost index of the highest element.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/arrayList/rightmostIndexHighElem/RightmostIndexHighElem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Rightmost index of the highest element" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,14 +234,7 @@
       <workItem from="1680527988044" duration="5493000" />
       <workItem from="1680538814480" duration="2212000" />
       <workItem from="1680667013775" duration="625000" />
-      <workItem from="1680769641001" duration="1258000" />
-    </task>
-    <task id="LOCAL-00083" summary="Problem (Bath) - Solve sub-components">
-      <created>1678505717921</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1678505717921</updated>
+      <workItem from="1680769641001" duration="1573000" />
     </task>
     <task id="LOCAL-00084" summary="Problem (Shoes) - Generate examples">
       <created>1678542290166</created>
@@ -583,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680540383841</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Rightmost index of the highest element">
+      <created>1680772423474</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1680772423474</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +598,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Alice and Marks" />
     <MESSAGE value="Ezio and Guards" />
     <MESSAGE value="Chef and Masks" />
     <MESSAGE value="Broken Phone" />
@@ -627,6 +622,7 @@
     <MESSAGE value="Number Mirror" />
     <MESSAGE value="Find Remainder" />
     <MESSAGE value="Sum of Digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of Digits" />
+    <MESSAGE value="Rightmost index of the highest element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rightmost index of the highest element" />
   </component>
 </project>
