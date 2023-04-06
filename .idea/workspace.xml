@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Rightmost index of the highest element" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Rightmost index of the highest element">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/uniqueElements/Unique elements of an array and their frequency.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/uniqueElements/UniqueElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,26 +50,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.RightmostIndexHighElem">
+  <component name="RunManager" selected="Application.UniqueElements">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.addTwoNumbers.AddTwoNumbers" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.addTwoNumbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindRemainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.findRemainder.FindRemainder" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.findRemainder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,6 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.uniqueElements.UniqueElements" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.uniqueElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -137,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueElements" />
         <item itemvalue="Application.RightmostIndexHighElem" />
         <item itemvalue="Application.TheMangoTruck" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.FindRemainder" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +239,7 @@
       <workItem from="1680538814480" duration="2212000" />
       <workItem from="1680667013775" duration="625000" />
       <workItem from="1680769641001" duration="1573000" />
+      <workItem from="1680791278897" duration="1997000" />
     </task>
     <task id="LOCAL-00084" summary="Problem (Shoes) - Generate examples">
       <created>1678542290166</created>
