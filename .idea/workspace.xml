@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Rightmost index of the highest element">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/equalUsingPairs/EqualUsingPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/solveProblemUsingJava/equalUsingPairs/Practice problem - Make all equal using Pairs .md" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Janmansh and Coins">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/mahasena/Mahasena.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +49,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.EqualUsingPairs">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.advancedDSAPaths.basicProgramming.addTwoNumbers.AddTwoNumbers" />
+  <component name="RunManager" selected="Application.Mahasena">
+    <configuration name="JanmanshAndAssignments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.janmanshAndAssignments.JanmanshAndAssignments" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.advancedDSAPaths.basicProgramming.addTwoNumbers.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.janmanshAndAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +63,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualUsingPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.equalUsingPairs.EqualUsingPairs" />
+    <configuration name="JanmanshAndCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.janmanshAndCoins.JanmanshAndCoins" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.equalUsingPairs.*" />
+          <option name="PATTERN" value="com.codechef.practice.janmanshAndCoins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mahasena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.mahasena.Mahasena" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.practice.mahasena.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightmostIndexHighElem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.arrayList.rightmostIndexHighElem.RightmostIndexHighElem" />
+    <configuration name="OddSumPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.oddSumPair.OddSumPair" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.arrayList.rightmostIndexHighElem.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.oddSumPair.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheMangoTruck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.theMangoTruck.TheMangoTruck" />
+    <configuration name="ShoppingChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.shoppingChange.ShoppingChange" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.theMangoTruck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.uniqueElements.UniqueElements" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.uniqueElements.*" />
+          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.shoppingChange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EqualUsingPairs" />
-        <item itemvalue="Application.UniqueElements" />
-        <item itemvalue="Application.RightmostIndexHighElem" />
-        <item itemvalue="Application.TheMangoTruck" />
-        <item itemvalue="Application.AddTwoNumbers" />
+        <item itemvalue="Application.Mahasena" />
+        <item itemvalue="Application.JanmanshAndCoins" />
+        <item itemvalue="Application.ShoppingChange" />
+        <item itemvalue="Application.JanmanshAndAssignments" />
+        <item itemvalue="Application.OddSumPair" />
       </list>
     </recent_temporary>
   </component>
@@ -238,49 +237,9 @@
       <workItem from="1680667013775" duration="625000" />
       <workItem from="1680769641001" duration="1573000" />
       <workItem from="1680791278897" duration="1997000" />
-      <workItem from="1680799987341" duration="2263000" />
-    </task>
-    <task id="LOCAL-00084" summary="Problem (Shoes) - Generate examples">
-      <created>1678542290166</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1678542290167</updated>
-    </task>
-    <task id="LOCAL-00085" summary="Problem (Shoes) - Solve sub-components">
-      <created>1678546164811</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1678546164811</updated>
-    </task>
-    <task id="LOCAL-00086" summary="Problem (Shoes) - Solve the complete problem">
-      <created>1678547319336</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1678547319336</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Problem (Mario) - Generate examples">
-      <created>1678555803679</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1678555803679</updated>
-    </task>
-    <task id="LOCAL-00088" summary="Problem (Mario) - Solve sub-components">
-      <created>1678557283228</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1678557283228</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Problem (Mario) - Solve the complete problem">
-      <created>1678558436701</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1678558436701</updated>
+      <workItem from="1680799987341" duration="2342000" />
+      <workItem from="1680880954207" duration="4989000" />
+      <workItem from="1680965845170" duration="645000" />
     </task>
     <task id="LOCAL-00090" summary="Problem (X Jumps) - Solve sub-components">
       <created>1678614384600</created>
@@ -583,7 +542,49 @@
       <option name="project" value="LOCAL" />
       <updated>1680772423474</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="Practice problem - Make all equal using Pairs">
+      <created>1680807594236</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807594237</updated>
+    </task>
+    <task id="LOCAL-00134" summary="The Cooler Dilemma 1">
+      <created>1680888970189</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1680888970190</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Odd Sum Pair">
+      <created>1680890346440</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1680890346440</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Janmansh and Assignments">
+      <created>1680894874284</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1680894874284</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Shopping Change">
+      <created>1680896459076</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1680896459077</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Janmansh and Coins">
+      <created>1680897041616</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1680897041616</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,12 +603,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ezio and Guards" />
-    <MESSAGE value="Chef and Masks" />
-    <MESSAGE value="Broken Phone" />
-    <MESSAGE value="Tyre problem" />
-    <MESSAGE value="Perfect Trio" />
-    <MESSAGE value="Monthly Budget" />
     <MESSAGE value="Codechef Airlines" />
     <MESSAGE value="Review problem - 3" />
     <MESSAGE value="Review problem - 4" />
@@ -627,6 +622,12 @@
     <MESSAGE value="Find Remainder" />
     <MESSAGE value="Sum of Digits" />
     <MESSAGE value="Rightmost index of the highest element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rightmost index of the highest element" />
+    <MESSAGE value="Practice problem - Make all equal using Pairs" />
+    <MESSAGE value="The Cooler Dilemma 1" />
+    <MESSAGE value="Odd Sum Pair" />
+    <MESSAGE value="Janmansh and Assignments" />
+    <MESSAGE value="Shopping Change" />
+    <MESSAGE value="Janmansh and Coins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Janmansh and Coins" />
   </component>
 </project>
