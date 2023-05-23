@@ -20,10 +20,9 @@ public class TheLeadGame {
                 max = lead;
                 winner = (player1 > player2) ? 1 : 2;
             }
-
-            System.out.println(winner + " " + max);
-
-
         }
+        System.out.println(winner + " " + max);
+
+
     }
 }
