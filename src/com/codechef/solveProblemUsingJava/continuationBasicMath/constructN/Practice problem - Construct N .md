@@ -1,0 +1,1 @@
+https://www.codechef.com/learn/BJ00BP26/problems/BMJC09?tab=statement
