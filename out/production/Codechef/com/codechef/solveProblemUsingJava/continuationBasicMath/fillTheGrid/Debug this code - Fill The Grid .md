@@ -1,0 +1,1 @@
+https://www.codechef.com/learn/BJ00BP27/problems/BMJC14
