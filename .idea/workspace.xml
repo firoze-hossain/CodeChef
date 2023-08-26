@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Janmansh and Coins">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/mahasena/Mahasena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/Puzzle Hunt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/PuzzleHunt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +44,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data-Structure-and-Algorithm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.Mahasena">
+  <component name="RunManager" selected="Application.PuzzleHunt">
     <configuration name="JanmanshAndAssignments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.janmanshAndAssignments.JanmanshAndAssignments" />
       <module name="Codechef" />
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddSumPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.oddSumPair.OddSumPair" />
+    <configuration name="PuzzleHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.basicProgram.puzzleHunt.PuzzleHunt" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.oddSumPair.*" />
+          <option name="PATTERN" value="com.codechef.practice.basicProgram.puzzleHunt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PuzzleHunt" />
         <item itemvalue="Application.Mahasena" />
         <item itemvalue="Application.JanmanshAndCoins" />
         <item itemvalue="Application.ShoppingChange" />
         <item itemvalue="Application.JanmanshAndAssignments" />
-        <item itemvalue="Application.OddSumPair" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +241,9 @@
       <workItem from="1680799987341" duration="2342000" />
       <workItem from="1680880954207" duration="4989000" />
       <workItem from="1680965845170" duration="645000" />
+      <workItem from="1692986575722" duration="599000" />
+      <workItem from="1693047742763" duration="40000" />
+      <workItem from="1693055294399" duration="813000" />
     </task>
     <task id="LOCAL-00090" summary="Problem (X Jumps) - Solve sub-components">
       <created>1678614384600</created>
