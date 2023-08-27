@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Puzzle Hunt">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/favouriteNumbers/Favourite Numbers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/favouriteNumbers/FavouriteNumbers.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Favourite Numbers">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/betterDeal/Better Deal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/betterDeal/BetterDeal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/Puzzle Hunt.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/puzzleHunt/Puzzle Hunt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/PuzzleHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/puzzleHunt/PuzzleHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,20 @@
       <recent name="$PROJECT_DIR$/src/com/codechef/hundredDays/puzzleHunt/basicProgram" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FavouriteNumbers">
+  <component name="RunManager" selected="Application.BetterDeal">
+    <configuration name="BetterDeal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.hundredDays.basicProgram.betterDeal.BetterDeal" />
+      <module name="Codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codechef.hundredDays.basicProgram.betterDeal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FavouriteNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.hundredDays.basicProgram.favouriteNumbers.FavouriteNumbers" />
       <module name="Codechef" />
@@ -123,39 +134,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.shoppingChange.ShoppingChange" />
-      <module name="Codechef" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.shoppingChange.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BetterDeal" />
         <item itemvalue="Application.FavouriteNumbers" />
         <item itemvalue="Application.PuzzleHunt" />
         <item itemvalue="Application.Mahasena" />
         <item itemvalue="Application.JanmanshAndCoins" />
-        <item itemvalue="Application.ShoppingChange" />
       </list>
     </recent_temporary>
   </component>
@@ -256,21 +252,8 @@
       <workItem from="1692986575722" duration="599000" />
       <workItem from="1693047742763" duration="40000" />
       <workItem from="1693055294399" duration="1028000" />
-      <workItem from="1693145963611" duration="1409000" />
-    </task>
-    <task id="LOCAL-00091" summary="Practice problem - Candy Distribution">
-      <created>1678698212869</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1678698212870</updated>
-    </task>
-    <task id="LOCAL-00092" summary="Practice problem - Weights">
-      <created>1678722374332</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1678722374332</updated>
+      <workItem from="1693145963611" duration="1722000" />
+      <workItem from="1693151881198" duration="913000" />
     </task>
     <task id="LOCAL-00093" summary="Practice problem - Minimum number of coins">
       <created>1678728252515</created>
@@ -601,7 +584,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693056170110</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Favourite Numbers">
+      <created>1693148688191</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1693148688191</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Favourite Numbers">
+      <created>1693148928207</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1693148928207</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +617,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Review problem - 3" />
     <MESSAGE value="Review problem - 4" />
     <MESSAGE value="Review problem - 5" />
     <MESSAGE value="work" />
@@ -645,6 +641,7 @@
     <MESSAGE value="Shopping Change" />
     <MESSAGE value="Janmansh and Coins" />
     <MESSAGE value="Puzzle Hunt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Puzzle Hunt" />
+    <MESSAGE value="Favourite Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Favourite Numbers" />
   </component>
 </project>
