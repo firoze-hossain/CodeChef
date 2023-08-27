@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Janmansh and Coins">
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/Puzzle Hunt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/PuzzleHunt.java" afterDir="false" />
+    <list default="true" id="df4c9dff-620e-4c90-b40a-da7f1baa052f" name="Default Changelist" comment="Puzzle Hunt">
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/favouriteNumbers/Favourite Numbers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/favouriteNumbers/FavouriteNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/Puzzle Hunt.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/puzzleHunt/Puzzle Hunt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codechef/practice/basicProgram/puzzleHunt/PuzzleHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codechef/hundredDays/basicProgram/puzzleHunt/PuzzleHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +46,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data-Structure-and-Algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/codechef/hundredDays/puzzleHunt" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.35538462" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.PuzzleHunt">
-    <configuration name="JanmanshAndAssignments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.solveProblemUsingJava.janmanshAndAssignments.JanmanshAndAssignments" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codechef/hundredDays/puzzleHunt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codechef/hundredDays/puzzleHunt/basicProgram" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FavouriteNumbers">
+    <configuration name="FavouriteNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.hundredDays.basicProgram.favouriteNumbers.FavouriteNumbers" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.solveProblemUsingJava.janmanshAndAssignments.*" />
+          <option name="PATTERN" value="com.codechef.hundredDays.basicProgram.favouriteNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="PuzzleHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechef.practice.basicProgram.puzzleHunt.PuzzleHunt" />
+      <option name="MAIN_CLASS_NAME" value="com.codechef.hundredDays.puzzleHunt.basicProgram.PuzzleHunt" />
       <module name="Codechef" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codechef.practice.basicProgram.puzzleHunt.*" />
+          <option name="PATTERN" value="com.codechef.hundredDays.puzzleHunt.basicProgram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,24 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FavouriteNumbers" />
         <item itemvalue="Application.PuzzleHunt" />
         <item itemvalue="Application.Mahasena" />
         <item itemvalue="Application.JanmanshAndCoins" />
         <item itemvalue="Application.ShoppingChange" />
-        <item itemvalue="Application.JanmanshAndAssignments" />
       </list>
     </recent_temporary>
   </component>
@@ -243,14 +255,8 @@
       <workItem from="1680965845170" duration="645000" />
       <workItem from="1692986575722" duration="599000" />
       <workItem from="1693047742763" duration="40000" />
-      <workItem from="1693055294399" duration="813000" />
-    </task>
-    <task id="LOCAL-00090" summary="Problem (X Jumps) - Solve sub-components">
-      <created>1678614384600</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1678614384600</updated>
+      <workItem from="1693055294399" duration="1028000" />
+      <workItem from="1693145963611" duration="1409000" />
     </task>
     <task id="LOCAL-00091" summary="Practice problem - Candy Distribution">
       <created>1678698212869</created>
@@ -588,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680897041616</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Puzzle Hunt">
+      <created>1693056170109</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1693056170110</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +620,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codechef Airlines" />
     <MESSAGE value="Review problem - 3" />
     <MESSAGE value="Review problem - 4" />
     <MESSAGE value="Review problem - 5" />
@@ -632,6 +644,7 @@
     <MESSAGE value="Janmansh and Assignments" />
     <MESSAGE value="Shopping Change" />
     <MESSAGE value="Janmansh and Coins" />
-    <option name="LAST_COMMIT_MESSAGE" value="Janmansh and Coins" />
+    <MESSAGE value="Puzzle Hunt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Puzzle Hunt" />
   </component>
 </project>

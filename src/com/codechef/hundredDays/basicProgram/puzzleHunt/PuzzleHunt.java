@@ -1,4 +1,4 @@
-package com.codechef.practice.basicProgram.puzzleHunt;
+package com.codechef.hundredDays.basicProgram.puzzleHunt;
 
 import java.util.Scanner;
 
