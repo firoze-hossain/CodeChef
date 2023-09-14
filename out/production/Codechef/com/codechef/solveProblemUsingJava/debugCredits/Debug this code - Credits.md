@@ -1,1 +1,0 @@
-https://www.codechef.com/learn/BJ00BP08/problems/BMJ11

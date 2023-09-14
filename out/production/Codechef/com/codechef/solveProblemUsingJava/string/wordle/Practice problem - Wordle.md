@@ -1,1 +1,0 @@
-https://www.codechef.com/learn/BJ00BP22/problems/STJ07?tab=statement

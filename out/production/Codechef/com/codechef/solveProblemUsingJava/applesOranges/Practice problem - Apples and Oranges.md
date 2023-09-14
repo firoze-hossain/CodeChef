@@ -1,1 +1,0 @@
-https://www.codechef.com/learn/BJ00BP09/problems/CSJ06A

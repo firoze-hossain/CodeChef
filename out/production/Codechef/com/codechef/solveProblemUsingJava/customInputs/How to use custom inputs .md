@@ -1,1 +1,0 @@
-https://www.codechef.com/learn/BJ00BP03/problems/GSJ13B

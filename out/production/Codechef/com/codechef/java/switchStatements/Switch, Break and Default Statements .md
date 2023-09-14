@@ -1,1 +1,0 @@
-https://www.codechef.com/learn/BJ00LP04/problems/CNDJ7

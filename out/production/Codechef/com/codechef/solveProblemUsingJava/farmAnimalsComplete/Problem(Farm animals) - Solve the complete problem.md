@@ -1,1 +1,0 @@
-https://www.codechef.com/learn/BJ00BP12/problems/LBJ02
